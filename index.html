@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GameBoxd — Video Game Discovery, Logging & Drag-and-Drop Rankings</title>
+  <meta name="description" content="A Letterboxd for video games with 150+ curated games, comprehensive logging, half-star reviews, and a drag-and-drop rankings workspace." />
+  <link rel="stylesheet" href="css/tokens.css" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="icon" type="image/jpeg" href="assets/logo.jpg" />
+</head>
+<body>
+  <div class="app-shell">
+    
+    <!-- Hallmark N5 Floating Pill Navigation Archetype -->
+    <header class="nav-pill-container" role="banner">
+      <nav class="nav-pill" aria-label="Main Navigation">
+        <a href="#home" class="nav-brand" aria-label="GameBoxd Home">
+          <img src="assets/logo.jpg" alt="GameBoxd Logo" class="nav-brand-logo" />
+          <span>GameBoxd</span>
+          <span class="nav-brand-badge">150+</span>
+        </a>
+
+        <div class="nav-pill-divider" aria-hidden="true"></div>
+
+        <ul class="nav-links-list" role="tablist">
+          <li role="presentation">
+            <button type="button" class="nav-link is-active" data-view="home" role="tab" aria-selected="true">
+              <span>Home</span>
+            </button>
+          </li>
+          <li role="presentation">
+            <button type="button" class="nav-link" data-view="browse" role="tab" aria-selected="false">
+              <span>Browse</span>
+            </button>
+          </li>
+          <li role="presentation">
+            <button type="button" class="nav-link" data-view="rankings" role="tab" aria-selected="false">
+              <span>Rankings</span>
+            </button>
+          </li>
+          <li role="presentation">
+            <button type="button" class="nav-link" data-view="profile" role="tab" aria-selected="false">
+              <span>Profile</span>
+            </button>
+          </li>
+        </ul>
+
+        <div class="nav-pill-divider" aria-hidden="true"></div>
+
+        <button type="button" class="nav-action-btn" id="nav-btn-add-game" title="Add a new game to database">
+          <span>+ Add Game</span>
+        </button>
+      </nav>
+    </header>
+
+    <!-- Main Views Container -->
+    <main class="main-content" id="app-view">
+
+      <!-- View 0: Landing Page (Modern-Minimal Two-Column Hero & Features) -->
+      <section id="view-home" class="app-view is-active" aria-label="GameBoxd Home and Overview">
+        
+        <!-- Hero Section: Modern-Minimal Two-Column -->
+        <div class="landing-hero">
+          <div class="landing-hero-left">
+            <div class="landing-hero-eyebrow">
+              <span class="eyebrow-dot"></span>
+              <span>Letterboxd for Video Games</span>
+            </div>
+            <h1 class="landing-hero-title">Track, review, and rank your gaming life.</h1>
+            <p class="landing-hero-lead">
+              The social diary and drag-and-drop ranking engine built for players. Log completions with 10-step half-star ratings, write honest reviews, pin your iconic Top 4 showcase, and organize definitive leaderboards.
+            </p>
+            <div class="landing-hero-ctas">
+              <a href="#browse" class="btn btn-accent btn-lg">Explore Catalog →</a>
+              <a href="#rankings" class="btn btn-secondary btn-lg">Start Ranking</a>
+            </div>
+            <div class="landing-hero-meta">
+              <span class="meta-tag">150 Curated Classics</span>
+              <span class="meta-dot">·</span>
+              <span class="meta-tag">Drag & Drop Leaderboards</span>
+              <span class="meta-dot">·</span>
+              <span class="meta-tag">100% Free & Local</span>
+            </div>
+          </div>
+
+          <div class="landing-hero-right">
+            <div class="hero-poster-mosaic">
+              <div class="mosaic-card mosaic-card-1" data-game-id="elden-ring">
+                <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg" alt="Elden Ring" class="mosaic-img" />
+                <div class="mosaic-overlay">
+                  <span class="mosaic-rank">#01</span>
+                  <div class="mosaic-meta">
+                    <span class="mosaic-title">Elden Ring</span>
+                    <span class="mosaic-score">★ 5.0 · Master Rank</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="mosaic-card mosaic-card-2" data-game-id="baldurs-gate-3">
+                <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/library_600x900.jpg" alt="Baldur's Gate 3" class="mosaic-img" />
+                <div class="mosaic-overlay">
+                  <span class="mosaic-rank">#02</span>
+                  <div class="mosaic-meta">
+                    <span class="mosaic-title">Baldur's Gate 3</span>
+                    <span class="mosaic-score">★ 5.0 · GOTY 2023</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="mosaic-card mosaic-card-3" data-game-id="zelda-botw">
+                <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.webp" alt="Zelda: BOTW" class="mosaic-img" />
+                <div class="mosaic-overlay">
+                  <span class="mosaic-rank">#03</span>
+                  <div class="mosaic-meta">
+                    <span class="mosaic-title">Breath of the Wild</span>
+                    <span class="mosaic-score">★ 4.8 · Nintendo</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="mosaic-card mosaic-card-4" data-game-id="hollow-knight">
+                <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/367520/library_600x900.jpg" alt="Hollow Knight" class="mosaic-img" />
+                <div class="mosaic-overlay">
+                  <span class="mosaic-rank">#04</span>
+                  <div class="mosaic-meta">
+                    <span class="mosaic-title">Hollow Knight</span>
+                    <span class="mosaic-score">★ 5.0 · Indie Masterpiece</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Featured Spotlight Row -->
+        <section class="landing-spotlight-section">
+          <div class="landing-section-header">
+            <div>
+              <h2 class="landing-section-title">Popular in the Database</h2>
+              <p class="landing-section-desc">Click any title to rate, log a review, or add directly to your ranking.</p>
+            </div>
+            <a href="#browse" class="btn btn-sm btn-link">View all 150 games →</a>
+          </div>
+
+          <div class="landing-spotlight-grid" id="landing-spotlight-grid"></div>
+        </section>
+
+        <!-- Visual Genre Collections Showcase -->
+        <section class="landing-genres-section">
+          <div class="landing-section-header">
+            <div>
+              <h2 class="landing-section-title">Explore by Vibe & Genre</h2>
+              <p class="landing-section-desc">Curated collections spanning gaming's most celebrated movements.</p>
+            </div>
+          </div>
+
+          <div class="landing-genres-grid">
+            <div class="genre-banner-card" style="background-image: linear-gradient(180deg, oklch(0% 0 0 / 0.4) 0%, oklch(14% 0.008 250) 95%), url('https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_hero.jpg');">
+              <div class="genre-banner-content">
+                <span class="genre-badge">Dark Fantasy</span>
+                <h3 class="genre-banner-title">Soulslikes & Atmosphere</h3>
+                <p class="genre-banner-desc">Master challenging combat and oppressive, beautifully crafted worlds.</p>
+                <div class="genre-mini-posters">
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg" alt="Elden Ring" />
+                  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.webp" alt="Bloodborne" />
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/814380/library_600x900.jpg" alt="Sekiro" />
+                </div>
+              </div>
+            </div>
+
+            <div class="genre-banner-card" style="background-image: linear-gradient(180deg, oklch(0% 0 0 / 0.4) 0%, oklch(14% 0.008 250) 95%), url('https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/library_hero.jpg');">
+              <div class="genre-banner-content">
+                <span class="genre-badge">Story & Choice</span>
+                <h3 class="genre-banner-title">Peak Narrative & CRPGs</h3>
+                <p class="genre-banner-desc">Consequence-heavy worlds where player choice and character writing shine.</p>
+                <div class="genre-mini-posters">
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/library_600x900.jpg" alt="Baldur's Gate 3" />
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/632470/library_600x900.jpg" alt="Disco Elysium" />
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/library_600x900.jpg" alt="The Witcher 3" />
+                </div>
+              </div>
+            </div>
+
+            <div class="genre-banner-card" style="background-image: linear-gradient(180deg, oklch(0% 0 0 / 0.4) 0%, oklch(14% 0.008 250) 95%), url('https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/367520/library_hero.jpg');">
+              <div class="genre-banner-content">
+                <span class="genre-badge">Vision & Heart</span>
+                <h3 class="genre-banner-title">Indie Hall of Fame</h3>
+                <p class="genre-banner-desc">Unforgettable handcrafted experiences from passionate independent studios.</p>
+                <div class="genre-mini-posters">
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/367520/library_600x900.jpg" alt="Hollow Knight" />
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145350/library_600x900.jpg" alt="Hades" />
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/753640/library_600x900.jpg" alt="Outer Wilds" />
+                </div>
+              </div>
+            </div>
+
+            <div class="genre-banner-card" style="background-image: linear-gradient(180deg, oklch(0% 0 0 / 0.4) 0%, oklch(14% 0.008 250) 95%), url('https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/220/library_hero.jpg');">
+              <div class="genre-banner-content">
+                <span class="genre-badge">Milestones</span>
+                <h3 class="genre-banner-title">Timeless Classics</h3>
+                <p class="genre-banner-desc">The historic benchmark titles that shaped modern video game design.</p>
+                <div class="genre-mini-posters">
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/613830/library_600x900.jpg" alt="Chrono Trigger" />
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/220/library_600x900.jpg" alt="Half-Life 2" />
+                  <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co20wa.webp" alt="Super Mario 64" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Core Feature Pillars Grid with Visual Mockups -->
+        <section class="landing-features-section">
+          <div class="landing-section-header">
+            <div>
+              <h2 class="landing-section-title">Built for the Way You Play</h2>
+              <p class="landing-section-desc">Everything you need to catalogue your journey, thoughtfully designed without clutter.</p>
+            </div>
+          </div>
+
+          <div class="landing-features-grid">
+            <!-- Feature 1: Visual Drag & Drop -->
+            <div class="landing-feature-card">
+              <div class="feature-visual-box">
+                <div class="feature-mockup-ranking">
+                  <div class="mockup-rank-row">
+                    <span class="mock-handle">☰</span>
+                    <span class="mock-num">#01</span>
+                    <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg" alt="Elden Ring" class="mock-thumb" />
+                    <span class="mock-title">Elden Ring</span>
+                    <span class="mock-rating">★ 5.0</span>
+                  </div>
+                  <div class="mockup-rank-row is-active-drag">
+                    <span class="mock-handle">☰</span>
+                    <span class="mock-num">#02</span>
+                    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.webp" alt="Bloodborne" class="mock-thumb" />
+                    <span class="mock-title">Bloodborne</span>
+                    <span class="mock-rating">★ 4.9</span>
+                  </div>
+                  <div class="mockup-rank-row">
+                    <span class="mock-handle">☰</span>
+                    <span class="mock-num">#03</span>
+                    <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/814380/library_600x900.jpg" alt="Sekiro" class="mock-thumb" />
+                    <span class="mock-title">Sekiro</span>
+                    <span class="mock-rating">★ 4.8</span>
+                  </div>
+                </div>
+              </div>
+              <h3 class="feature-card-title">Drag-and-Drop Rankings</h3>
+              <p class="feature-card-desc">
+                Drag cards up and down to intuitively build your definitive All-Time Top Games list. Create custom themed lists (like <em>Best Soulslikes</em> or <em>GOTY Contenders</em>) and export to formatted Markdown with one click.
+              </p>
+              <div class="feature-card-footer">
+                <a href="#rankings" class="feature-link">Open Rankings →</a>
+              </div>
+            </div>
+
+            <!-- Feature 2: Visual Review & Diary -->
+            <div class="landing-feature-card">
+              <div class="feature-visual-box">
+                <div class="feature-mockup-diary">
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/library_600x900.jpg" alt="The Witcher 3" class="diary-mock-cover" />
+                  <div class="diary-mock-content">
+                    <div class="diary-mock-header">
+                      <span class="diary-mock-title">The Witcher 3: Wild Hunt</span>
+                      <span class="diary-mock-stars">★★★★★ 5.0</span>
+                    </div>
+                    <p class="diary-mock-snippet">"The Bloody Baron questline and hearts of stone remain unmatched in RPG storytelling."</p>
+                    <div class="diary-mock-tags">
+                      <span class="tag-pill">Played · PC</span>
+                      <span class="tag-pill">♥ Liked</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <h3 class="feature-card-title">Half-Star Ratings & Diary</h3>
+              <p class="feature-card-desc">
+                True Letterboxd fidelity: 10-step half-star ratings (0.5 to 5.0), play status toggles (Played, Playing, Backlog), Heart likes, and written reviews with completion dates and platform tags.
+              </p>
+              <div class="feature-card-footer">
+                <a href="#browse" class="feature-link">Browse & Rate →</a>
+              </div>
+            </div>
+
+            <!-- Feature 3: Visual Top 4 Showcase -->
+            <div class="landing-feature-card">
+              <div class="feature-visual-box">
+                <div class="feature-mockup-topfour">
+                  <div class="topfour-mock-item">
+                    <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/620/library_600x900.jpg" alt="Portal 2" />
+                    <span class="topfour-mock-num">01</span>
+                  </div>
+                  <div class="topfour-mock-item">
+                    <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/library_600x900.jpg" alt="Baldur's Gate 3" />
+                    <span class="topfour-mock-num">02</span>
+                  </div>
+                  <div class="topfour-mock-item">
+                    <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.webp" alt="Zelda BOTW" />
+                    <span class="topfour-mock-num">03</span>
+                  </div>
+                  <div class="topfour-mock-item">
+                    <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/613830/library_600x900.jpg" alt="Chrono Trigger" />
+                    <span class="topfour-mock-num">04</span>
+                  </div>
+                </div>
+              </div>
+              <h3 class="feature-card-title">The Iconic Top 4</h3>
+              <p class="feature-card-desc">
+                Just like Letterboxd's iconic four favorites, showcase your 4 defining games proudly atop your profile. Change them anytime with our fast searchable picker.
+              </p>
+              <div class="feature-card-footer">
+                <a href="#profile" class="feature-link">View Profile →</a>
+              </div>
+            </div>
+
+            <!-- Feature 4: Visual Database Fan -->
+            <div class="landing-feature-card">
+              <div class="feature-visual-box">
+                <div class="feature-mockup-fan">
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg" alt="Cyberpunk 2077" class="fan-card fan-1" />
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1687950/library_600x900.jpg" alt="Persona 5 Royal" class="fan-card fan-2" />
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145350/library_600x900.jpg" alt="Hades" class="fan-card fan-3" />
+                  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/632470/library_600x900.jpg" alt="Disco Elysium" class="fan-card fan-4" />
+                </div>
+              </div>
+              <h3 class="feature-card-title">Expandable 150+ Database</h3>
+              <p class="feature-card-desc">
+                Comes preloaded with 150 critically acclaimed masterworks across eras and genres. Add your own custom titles instantly through the in-app editor or export/import full JSON backups.
+              </p>
+              <div class="feature-card-footer">
+                <button type="button" class="btn-link" id="landing-btn-add-game">+ Add Custom Game</button>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 3-Step Workflow -->
+        <section class="landing-workflow-section">
+          <div class="landing-section-header">
+            <div>
+              <h2 class="landing-section-title">How It Works</h2>
+              <p class="landing-section-desc">Get started in seconds — no account required.</p>
+            </div>
+          </div>
+
+          <div class="landing-workflow-grid">
+            <div class="workflow-step">
+              <span class="step-number">01</span>
+              <h4 class="step-title">Discover & Log</h4>
+              <p class="step-desc">Browse the 150 curated classics or add your own games. Mark them as Played, Playing, or Backlog with one click.</p>
+            </div>
+
+            <div class="workflow-step">
+              <span class="step-number">02</span>
+              <h4 class="step-title">Rate & Review</h4>
+              <p class="step-desc">Score games with 0.5–5.0 half-stars, hit the heart for games you love, and record your diary impressions.</p>
+            </div>
+
+            <div class="workflow-step">
+              <span class="step-number">03</span>
+              <h4 class="step-title">Drag, Rank & Share</h4>
+              <p class="step-desc">Open the ranking workspace, drag games up and down into order, build custom lists, and export to Markdown.</p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Closing CTA Banner -->
+        <div class="landing-cta-banner">
+          <h2 class="cta-banner-title">Ready to build your gaming record?</h2>
+          <p class="cta-banner-desc">Explore the database of 150 iconic titles, rate your favorites, and drag-and-drop your definitive rankings.</p>
+          <div class="cta-banner-buttons">
+            <a href="#browse" class="btn btn-accent btn-lg">Browse Catalog →</a>
+            <a href="#rankings" class="btn btn-secondary btn-lg">Go to Rankings</a>
+          </div>
+        </div>
+
+      </section>
+
+      <!-- View 1: Catalogue Grid (Macrostructure 11: Catalogue) -->
+      <section id="view-catalog" class="app-view" aria-label="Game Catalog">
+        <header class="catalog-header">
+          <div class="catalog-headline-row">
+            <div>
+              <h1 class="catalog-title">Game Database</h1>
+              <p class="catalog-meta-count" id="catalog-count">Loading 150 games...</p>
+            </div>
+          </div>
+
+          <!-- Catalog Filter & Search Toolbar -->
+          <div class="catalog-controls-bar">
+            <div class="catalog-search-wrap">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+              </svg>
+              <input 
+                type="search" 
+                id="catalog-search-input" 
+                class="catalog-search-input" 
+                placeholder="Search by title, developer, or publisher... (Press / to focus)" 
+                autocomplete="off" 
+              />
+              <button type="button" class="clear-input-btn" id="btn-clear-catalog-search" style="display: none;" title="Clear search">&times;</button>
+            </div>
+
+            <div class="catalog-filter-group">
+              <select id="filter-genre" class="filter-select" aria-label="Filter by Genre">
+                <option value="all">All Genres</option>
+                <option value="Action RPG">Action RPG</option>
+                <option value="CRPG">CRPG</option>
+                <option value="JRPG">JRPG</option>
+                <option value="Action-Adventure">Action-Adventure</option>
+                <option value="FPS">FPS</option>
+                <option value="Metroidvania">Metroidvania</option>
+                <option value="Survival Horror">Survival Horror</option>
+                <option value="Fighting">Fighting</option>
+                <option value="Platformer">Platformer</option>
+                <option value="Indie">Indie</option>
+                <option value="Open World">Open World</option>
+                <option value="Roguelike">Roguelike</option>
+                <option value="Soulslike">Soulslike</option>
+                <option value="Puzzle">Puzzle</option>
+                <option value="Stealth">Stealth</option>
+                <option value="MMORPG">MMORPG</option>
+              </select>
+
+              <select id="filter-platform" class="filter-select" aria-label="Filter by Platform">
+                <option value="all">All Platforms</option>
+                <option value="PC">PC</option>
+                <option value="PlayStation">PlayStation</option>
+                <option value="Nintendo">Nintendo</option>
+                <option value="Xbox">Xbox</option>
+              </select>
+
+              <select id="filter-status" class="filter-select" aria-label="Filter by Play Status">
+                <option value="all">All Statuses</option>
+                <option value="played">Played</option>
+                <option value="playing">Playing</option>
+                <option value="backlog">In Backlog</option>
+                <option value="liked">Liked ♥</option>
+                <option value="unlogged">Unlogged</option>
+              </select>
+
+              <select id="filter-sort" class="filter-select" aria-label="Sort games">
+                <option value="rating-desc">Community Rating (High to Low)</option>
+                <option value="user-rating">My Rating (High to Low)</option>
+                <option value="year-desc">Release Year (Newest)</option>
+                <option value="year-asc">Release Year (Oldest)</option>
+                <option value="title-asc">Title (A – Z)</option>
+              </select>
+            </div>
+          </div>
+        </header>
+
+        <!-- Dynamic Game Poster Grid -->
+        <div class="catalog-grid" id="catalog-grid"></div>
+      </section>
+
+      <!-- View 2: Drag-and-Drop Rankings Workspace -->
+      <section id="view-ranking" class="app-view" aria-label="Rankings Workspace">
+        <div id="ranking-view-content"></div>
+      </section>
+
+      <!-- View 3: Profile & Journal View -->
+      <section id="view-profile" class="app-view" aria-label="Player Profile and Journal">
+        <div id="profile-view-content"></div>
+      </section>
+
+    </main>
+
+    <!-- Hallmark Ft2 Inline-Rule Single Line Footer Archetype -->
+    <footer class="foot-line" role="contentinfo">
+      <div class="foot-line-content">
+        <div class="foot-brand-group">
+          <img src="assets/logo.jpg" alt="" class="footer-logo" />
+          <span class="foot-wordmark">GameBoxd</span>
+        </div>
+        <p class="foot-credit">A Letterboxd companion for video game discovery, journals, and tier rankings.</p>
+        <span class="mono-text">v1.0 · Modern Minimalist</span>
+      </div>
+    </footer>
+
+  </div>
+
+  <!-- Modal Dialog Mount Point -->
+  <div class="modal-overlay" id="modal-overlay" aria-hidden="true"></div>
+
+  <!-- Global Toast Notifications Container -->
+  <div class="toast-container" id="toast-container" aria-live="polite"></div>
+
+  <!-- Games Dataset Fallback (ensures instant load even on direct file:// protocol) -->
+  <script src="data/games-data.js"></script>
+
+  <!-- Main ES Module Bootstrapper -->
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

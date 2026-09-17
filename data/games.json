@@ -1,0 +1,3465 @@
+[
+  {
+    "id": "elden-ring",
+    "title": "Elden Ring",
+    "releaseYear": 2022,
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Soulslike"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox Series X/S",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_hero.jpg",
+    "synopsis": "Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+    "avgRating": 4.8,
+    "communityRatingCount": 24200
+  },
+  {
+    "id": "baldurs-gate-3",
+    "title": "Baldur's Gate 3",
+    "releaseYear": 2023,
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "genres": [
+      "CRPG",
+      "Turn-Based",
+      "Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/library_hero.jpg",
+    "synopsis": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power.",
+    "avgRating": 4.9,
+    "communityRatingCount": 31500
+  },
+  {
+    "id": "the-witcher-3",
+    "title": "The Witcher 3: Wild Hunt",
+    "releaseYear": 2015,
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Dark Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox Series X/S",
+      "Xbox One",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/library_hero.jpg",
+    "synopsis": "As war rages across the Northern Realms, monster hunter Geralt of Rivia tracks down Ciri, the Child of Prophecy, before the spectral Wild Hunt finds her.",
+    "avgRating": 4.8,
+    "communityRatingCount": 42100
+  },
+  {
+    "id": "zelda-botw",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "releaseYear": 2017,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "genres": [
+      "Action-Adventure",
+      "Open World"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "Wii U"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scl4q8.webp",
+    "synopsis": "Awakening from a 100-year slumber, Link explores the vast, ruined kingdom of Hyrule to reclaim his memories and defeat Calamity Ganon.",
+    "avgRating": 4.8,
+    "communityRatingCount": 38400
+  },
+  {
+    "id": "red-dead-redemption-2",
+    "title": "Red Dead Redemption 2",
+    "releaseYear": 2018,
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "genres": [
+      "Action-Adventure",
+      "Open World",
+      "Western"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/library_hero.jpg",
+    "synopsis": "America, 1899. Arthur Morgan and the Van der Linde gang must rob, steal, and fight across the rugged heart of America in order to survive.",
+    "avgRating": 4.9,
+    "communityRatingCount": 39800
+  },
+  {
+    "id": "bloodborne",
+    "title": "Bloodborne",
+    "releaseYear": 2015,
+    "developer": "FromSoftware",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Action RPG",
+      "Soulslike",
+      "Gothic Horror"
+    ],
+    "platforms": [
+      "PS4"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7f.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/sc80e1.webp",
+    "synopsis": "Face your fears in the decaying ancient city of Yharnam, now plagued with an endemic illness spreading through the streets like wildfire.",
+    "avgRating": 4.8,
+    "communityRatingCount": 26900
+  },
+  {
+    "id": "half-life-2",
+    "title": "Half-Life 2",
+    "releaseYear": 2004,
+    "developer": "Valve",
+    "publisher": "Valve",
+    "genres": [
+      "FPS",
+      "Sci-Fi",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox",
+      "Xbox 360",
+      "PS3"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/220/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/220/library_hero.jpg",
+    "synopsis": "By taking the crowbar of research scientist Gordon Freeman, you find yourself on an alien-infested Earth being picked to the bone by the Combine.",
+    "avgRating": 4.8,
+    "communityRatingCount": 22400
+  },
+  {
+    "id": "portal-2",
+    "title": "Portal 2",
+    "releaseYear": 2011,
+    "developer": "Valve",
+    "publisher": "Valve",
+    "genres": [
+      "Puzzle",
+      "First-Person",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "PS3",
+      "Xbox 360",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/620/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/620/library_hero.jpg",
+    "synopsis": "Armed with a portal-gun, navigate through the Aperture Science Laboratories guided and taunted by GLaDOS and the bumbling AI Wheatley.",
+    "avgRating": 4.9,
+    "communityRatingCount": 28900
+  },
+  {
+    "id": "hollow-knight",
+    "title": "Hollow Knight",
+    "releaseYear": 2017,
+    "developer": "Team Cherry",
+    "publisher": "Team Cherry",
+    "genres": [
+      "Metroidvania",
+      "Action",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/367520/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/367520/library_hero.jpg",
+    "synopsis": "Forge your own path in Hallownest! An expansive, interconnected world of ruined insects and heroes awaits in this atmospheric 2D action adventure.",
+    "avgRating": 4.8,
+    "communityRatingCount": 27300
+  },
+  {
+    "id": "persona-5-royal",
+    "title": "Persona 5 Royal",
+    "releaseYear": 2019,
+    "developer": "Atlus",
+    "publisher": "Sega",
+    "genres": [
+      "JRPG",
+      "Turn-Based",
+      "Social Sim"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Switch",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1687950/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1687950/library_hero.jpg",
+    "synopsis": "Don the mask of Joker and join the Phantom Thieves of Hearts as they break the chains of modern society and stage grand heists of corrupt hearts.",
+    "avgRating": 4.8,
+    "communityRatingCount": 18200
+  },
+  {
+    "id": "dark-souls",
+    "title": "Dark Souls",
+    "releaseYear": 2011,
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "genres": [
+      "Action RPG",
+      "Soulslike",
+      "Dark Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox 360",
+      "Xbox One",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/library_hero.jpg",
+    "synopsis": "Then, there was Fire. Journey through the haunting kingdom of Lordran as the Chosen Undead to rekindle the First Flame, or usher in the Age of Dark.",
+    "avgRating": 4.7,
+    "communityRatingCount": 29800
+  },
+  {
+    "id": "chrono-trigger",
+    "title": "Chrono Trigger",
+    "releaseYear": 1995,
+    "developer": "Square",
+    "publisher": "Square",
+    "genres": [
+      "JRPG",
+      "Turn-Based",
+      "Time Travel"
+    ],
+    "platforms": [
+      "SNES",
+      "PlayStation",
+      "Nintendo DS",
+      "PC",
+      "Mobile"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/613830/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/613830/library_hero.jpg",
+    "synopsis": "When a newly developed teleportation device malfunctions, young Crono must travel through time to rescue a lost girl and prevent a global apocalypse.",
+    "avgRating": 4.9,
+    "communityRatingCount": 15400
+  },
+  {
+    "id": "super-mario-64",
+    "title": "Super Mario 64",
+    "releaseYear": 1996,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genres": [
+      "3D Platformer",
+      "Adventure"
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Switch"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20wa.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/sc80eb.webp",
+    "synopsis": "Mario leaps into Princess Peach's magical castle paintings to gather Power Stars and rescue Peach from Bowser in the landmark 3D platformer.",
+    "avgRating": 4.6,
+    "communityRatingCount": 21000
+  },
+  {
+    "id": "god-of-war-2018",
+    "title": "God of War",
+    "releaseYear": 2018,
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Action-Adventure",
+      "Hack and Slash",
+      "Mythology"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1593500/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1593500/library_hero.jpg",
+    "synopsis": "Living as a man outside the shadow of the gods, Kratos must adapt to unfamiliar lands, unexpected threats, and a second chance at being a father.",
+    "avgRating": 4.8,
+    "communityRatingCount": 35700
+  },
+  {
+    "id": "cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "releaseYear": 2020,
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox Series X/S",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/library_hero.jpg",
+    "synopsis": "Take on the job of a lifetime as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality in the megalopolis of Night City.",
+    "avgRating": 4.4,
+    "communityRatingCount": 33100
+  },
+  {
+    "id": "hades",
+    "title": "Hades",
+    "releaseYear": 2020,
+    "developer": "Supergiant Games",
+    "publisher": "Supergiant Games",
+    "genres": [
+      "Roguelike",
+      "Action RPG",
+      "Mythology"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS5",
+      "PS4",
+      "Xbox Series X/S",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145350/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145350/library_hero.jpg",
+    "synopsis": "Defy the god of the dead as you hack and slash out of the Underworld of Greek myth in this fast-paced rogue-like dungeon crawler.",
+    "avgRating": 4.8,
+    "communityRatingCount": 29600
+  },
+  {
+    "id": "disco-elysium",
+    "title": "Disco Elysium",
+    "releaseYear": 2019,
+    "developer": "ZA/UM",
+    "publisher": "ZA/UM",
+    "genres": [
+      "CRPG",
+      "Detective",
+      "Narrative"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/632470/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/632470/library_hero.jpg",
+    "synopsis": "You're a detective with a unique skill system at your disposal and a whole city block to carve your path across. Interrogate characters, crack murders, or take bribes.",
+    "avgRating": 4.8,
+    "communityRatingCount": 20700
+  },
+  {
+    "id": "mass-effect-2",
+    "title": "Mass Effect 2",
+    "releaseYear": 2010,
+    "developer": "BioWare",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Action RPG",
+      "Sci-Fi",
+      "Third-Person Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2362420/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2362420/library_hero.jpg",
+    "synopsis": "Recruit the galaxy's deadliest operatives and lead them on a suicide mission into uncharted territory to stop the Collectors from abducting humanity.",
+    "avgRating": 4.8,
+    "communityRatingCount": 25100
+  },
+  {
+    "id": "bioshock",
+    "title": "BioShock",
+    "releaseYear": 2007,
+    "developer": "2K Boston",
+    "publisher": "2K",
+    "genres": [
+      "FPS",
+      "Immersive Sim",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/8870/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/8870/library_hero.jpg",
+    "synopsis": "After your plane crashes into icy uncharted waters, you discover Rapture, a breathtaking underwater utopia gone mad with biological modification.",
+    "avgRating": 4.7,
+    "communityRatingCount": 27400
+  },
+  {
+    "id": "shadow-of-the-colossus",
+    "title": "Shadow of the Colossus",
+    "releaseYear": 2005,
+    "developer": "Team Ico",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Action-Adventure",
+      "Puzzle",
+      "Artistic"
+    ],
+    "platforms": [
+      "PS2",
+      "PS3",
+      "PS4"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ozz.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt74.webp",
+    "synopsis": "Armed only with a sword and a magical bow, a young wanderer rides across forbidden lands to fell sixteen colossal beasts in exchange for a girl's revival.",
+    "avgRating": 4.8,
+    "communityRatingCount": 16900
+  },
+  {
+    "id": "metal-gear-solid-3",
+    "title": "Metal Gear Solid 3: Snake Eater",
+    "releaseYear": 2004,
+    "developer": "Konami Computer Entertainment Japan",
+    "publisher": "Konami",
+    "genres": [
+      "Stealth",
+      "Action",
+      "Espionage"
+    ],
+    "platforms": [
+      "PS2",
+      "PS3",
+      "Xbox 360",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2131650/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2131650/library_hero.jpg",
+    "synopsis": "Set in 1964 during the Cold War, operative Naked Snake infiltrates the Soviet jungle to assassinate his defected mentor, The Boss.",
+    "avgRating": 4.8,
+    "communityRatingCount": 19400
+  },
+  {
+    "id": "silent-hill-2",
+    "title": "Silent Hill 2",
+    "releaseYear": 2001,
+    "developer": "Team Silent",
+    "publisher": "Konami",
+    "genres": [
+      "Survival Horror",
+      "Psychological"
+    ],
+    "platforms": [
+      "PS2",
+      "Xbox",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2124490/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2124490/library_hero.jpg",
+    "synopsis": "James Sunderland travels to the fog-shrouded town of Silent Hill after receiving a letter signed by his wife Mary, who died three years earlier.",
+    "avgRating": 4.8,
+    "communityRatingCount": 17800
+  },
+  {
+    "id": "the-last-of-us",
+    "title": "The Last of Us",
+    "releaseYear": 2013,
+    "developer": "Naughty Dog",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Action-Adventure",
+      "Survival Horror",
+      "Narrative"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1888930/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1888930/library_hero.jpg",
+    "synopsis": "In a post-pandemic United States ravaged by infected and hardened survivors, weary smuggler Joel is hired to escort 14-year-old Ellie across the country.",
+    "avgRating": 4.8,
+    "communityRatingCount": 41200
+  },
+  {
+    "id": "resident-evil-4",
+    "title": "Resident Evil 4",
+    "releaseYear": 2005,
+    "developer": "Capcom Production Studio 4",
+    "publisher": "Capcom",
+    "genres": [
+      "Survival Horror",
+      "Third-Person Shooter",
+      "Action"
+    ],
+    "platforms": [
+      "GameCube",
+      "PS2",
+      "PC",
+      "Wii",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/library_hero.jpg",
+    "synopsis": "Special agent Leon S. Kennedy is sent on a rescue mission to an isolated European village dominated by a mind-controlling parasitic cult.",
+    "avgRating": 4.7,
+    "communityRatingCount": 24900
+  },
+  {
+    "id": "final-fantasy-vii",
+    "title": "Final Fantasy VII",
+    "releaseYear": 1997,
+    "developer": "Square",
+    "publisher": "Square",
+    "genres": [
+      "JRPG",
+      "Turn-Based",
+      "Cyberpunk"
+    ],
+    "platforms": [
+      "PlayStation",
+      "PC",
+      "Switch",
+      "PS4",
+      "Xbox One",
+      "Mobile"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20vv.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/sc80ev.webp",
+    "synopsis": "Mercenary Cloud Strife joins eco-terrorist group AVALANCHE against the corrupt Shinra Electric Power Company and the renegade soldier Sephiroth.",
+    "avgRating": 4.8,
+    "communityRatingCount": 23600
+  },
+  {
+    "id": "doom-2016",
+    "title": "DOOM",
+    "releaseYear": 2016,
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "FPS",
+      "Action",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3017860/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3017860/library_hero.jpg",
+    "synopsis": "As the DOOM Slayer, you awaken on a Union Aerospace Corporation Mars research base overrun by demonic hordes. Rip and tear until it is done.",
+    "avgRating": 4.6,
+    "communityRatingCount": 22100
+  },
+  {
+    "id": "castlevania-sotn",
+    "title": "Castlevania: Symphony of the Night",
+    "releaseYear": 1997,
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "genres": [
+      "Metroidvania",
+      "Action-Adventure",
+      "Gothic"
+    ],
+    "platforms": [
+      "PlayStation",
+      "Sega Saturn",
+      "Xbox 360",
+      "PS4",
+      "Mobile"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p42.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/sc80ex.webp",
+    "synopsis": "Dracula's dhampir son Alucard awakens to explore Castlevania, battling grotesque monsters to stop the resurrection of his vampiric father.",
+    "avgRating": 4.8,
+    "communityRatingCount": 13900
+  },
+  {
+    "id": "fallout-new-vegas",
+    "title": "Fallout: New Vegas",
+    "releaseYear": 2010,
+    "developer": "Obsidian Entertainment",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Post-Apocalyptic"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/22380/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/22380/library_hero.jpg",
+    "synopsis": "Shot in the head and left for dead in the Mojave Wasteland, a courier seeks vengeance while deciding the fate of the sparkling ruins of New Vegas.",
+    "avgRating": 4.8,
+    "communityRatingCount": 31400
+  },
+  {
+    "id": "sekiro",
+    "title": "Sekiro: Shadows Die Twice",
+    "releaseYear": 2019,
+    "developer": "FromSoftware",
+    "publisher": "Activision",
+    "genres": [
+      "Action-Adventure",
+      "Soulslike",
+      "Stealth"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/814380/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/814380/library_hero.jpg",
+    "synopsis": "In late 1500s Sengoku Japan, the one-armed wolf shinobi must protect the young Divine Heir and seek revenge against the Ashina clan.",
+    "avgRating": 4.8,
+    "communityRatingCount": 24800
+  },
+  {
+    "id": "outer-wilds",
+    "title": "Outer Wilds",
+    "releaseYear": 2019,
+    "developer": "Mobius Digital",
+    "publisher": "Annapurna Interactive",
+    "genres": [
+      "Adventure",
+      "Space Sim",
+      "Mystery"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PS4",
+      "Xbox Series X/S",
+      "PS5",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/753640/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/753640/library_hero.jpg",
+    "synopsis": "Explore an ominous, hand-crafted solar system trapped in an endless 22-minute time loop before the local sun goes supernova.",
+    "avgRating": 4.9,
+    "communityRatingCount": 21800
+  },
+  {
+    "id": "minecraft",
+    "title": "Minecraft",
+    "releaseYear": 2011,
+    "developer": "Mojang Studios",
+    "publisher": "Xbox Game Studios",
+    "genres": [
+      "Sandbox",
+      "Survival",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "Mobile",
+      "Switch",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8fv5.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/sc80f1.webp",
+    "synopsis": "Explore an infinite voxel world, extract minerals, craft tools, build incredible architectures, and battle nighttime creatures in the bestselling game of all time.",
+    "avgRating": 4.7,
+    "communityRatingCount": 54200
+  },
+  {
+    "id": "halo-3",
+    "title": "Halo 3",
+    "releaseYear": 2007,
+    "developer": "Bungie",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "FPS",
+      "Sci-Fi",
+      "Action"
+    ],
+    "platforms": [
+      "Xbox 360",
+      "PC",
+      "Xbox One"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x7e.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/sc80f2.webp",
+    "synopsis": "Master Chief returns to finish the fight, bringing the epic conflict between the Covenant, the Flood, and humankind to a dramatic climax.",
+    "avgRating": 4.7,
+    "communityRatingCount": 26800
+  },
+  {
+    "id": "metroid-prime",
+    "title": "Metroid Prime",
+    "releaseYear": 2002,
+    "developer": "Retro Studios",
+    "publisher": "Nintendo",
+    "genres": [
+      "Action-Adventure",
+      "First-Person",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "GameCube",
+      "Wii",
+      "Nintendo Switch"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co64w1.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/sc80f3.webp",
+    "synopsis": "Intergalactic bounty hunter Samus Aran investigates a Space Pirate frigate and descends upon the poisoned planet Tallon IV to stop Phazon corruption.",
+    "avgRating": 4.8,
+    "communityRatingCount": 14600
+  },
+  {
+    "id": "skyrim",
+    "title": "The Elder Scrolls V: Skyrim",
+    "releaseYear": 2011,
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "High Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "PS5",
+      "Xbox 360",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/489830/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/489830/library_hero.jpg",
+    "synopsis": "The Empire of Tamriel is on the edge. As the Dragonborn, master the power of dragon shouts and save the northern province from the ancient dragon Alduin.",
+    "avgRating": 4.7,
+    "communityRatingCount": 48500
+  },
+  {
+    "id": "gta-v",
+    "title": "Grand Theft Auto V",
+    "releaseYear": 2013,
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "genres": [
+      "Action-Adventure",
+      "Open World",
+      "Crime"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "PS5",
+      "Xbox 360",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3240220/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3240220/library_hero.jpg",
+    "synopsis": "A young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with the criminal underworld and the US government.",
+    "avgRating": 4.7,
+    "communityRatingCount": 51900
+  },
+  {
+    "id": "celeste",
+    "title": "Celeste",
+    "releaseYear": 2018,
+    "developer": "Maddy Makes Games",
+    "publisher": "Maddy Makes Games",
+    "genres": [
+      "2D Platformer",
+      "Precision",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/504230/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/504230/library_hero.jpg",
+    "synopsis": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in a super-tight, hand-crafted platformer from the creators of TowerFall.",
+    "avgRating": 4.8,
+    "communityRatingCount": 23500
+  },
+  {
+    "id": "undertale",
+    "title": "Undertale",
+    "releaseYear": 2015,
+    "developer": "tobyfox",
+    "publisher": "tobyfox",
+    "genres": [
+      "RPG",
+      "Indie",
+      "Bullet Hell"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS Vita",
+      "Switch",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/391540/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/391540/library_hero.jpg",
+    "synopsis": "Fall into the Underworld and explore a hilarious and heartwarming world where you don't have to kill anyone: talk, flirt, or spare every monster you meet.",
+    "avgRating": 4.8,
+    "communityRatingCount": 27100
+  },
+  {
+    "id": "stardew-valley",
+    "title": "Stardew Valley",
+    "releaseYear": 2016,
+    "developer": "ConcernedApe",
+    "publisher": "ConcernedApe",
+    "genres": [
+      "Farming Sim",
+      "RPG",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Switch",
+      "PS4",
+      "Xbox One",
+      "Mobile"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/413150/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/413150/library_hero.jpg",
+    "synopsis": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin a new life.",
+    "avgRating": 4.8,
+    "communityRatingCount": 32800
+  },
+  {
+    "id": "kotor",
+    "title": "Star Wars: Knights of the Old Republic",
+    "releaseYear": 2003,
+    "developer": "BioWare",
+    "publisher": "LucasArts",
+    "genres": [
+      "CRPG",
+      "Sci-Fi",
+      "Star Wars"
+    ],
+    "platforms": [
+      "Xbox",
+      "PC",
+      "Mobile",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/32370/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/32370/library_hero.jpg",
+    "synopsis": "Four thousand years before the Galactic Empire, you lead a party of Jedi and outcasts across the galaxy in a race against Darth Malak.",
+    "avgRating": 4.8,
+    "communityRatingCount": 16400
+  },
+  {
+    "id": "deus-ex",
+    "title": "Deus Ex",
+    "releaseYear": 2000,
+    "developer": "Ion Storm",
+    "publisher": "Eidos Interactive",
+    "genres": [
+      "Action RPG",
+      "Immersive Sim",
+      "Cyberpunk"
+    ],
+    "platforms": [
+      "PC",
+      "PS2"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/337000/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/337000/library_hero.jpg",
+    "synopsis": "The year is 2052 and the world is a dangerous and chaotic place. Terrorists operate openly; drugs and disease run rampant. Enter nano-augmented agent JC Denton.",
+    "avgRating": 4.8,
+    "communityRatingCount": 12700
+  },
+  {
+    "id": "ssbm",
+    "title": "Super Smash Bros. Melee",
+    "releaseYear": 2001,
+    "developer": "HAL Laboratory",
+    "publisher": "Nintendo",
+    "genres": [
+      "Fighting",
+      "Platform Fighter"
+    ],
+    "platforms": [
+      "GameCube"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co222e.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/sc80fb.webp",
+    "synopsis": "Nintendo's legendary mascot fighters brawl with blazing speed, fluid physics, and competitive technical depth in the definitive platform brawler.",
+    "avgRating": 4.7,
+    "communityRatingCount": 18900
+  },
+  {
+    "id": "street-fighter-6",
+    "title": "Street Fighter 6",
+    "releaseYear": 2023,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Fighting",
+      "Competitive"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2154900/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2154900/library_hero.jpg",
+    "synopsis": "Powered by Capcom's RE ENGINE, Street Fighter 6 spans three distinct game modes: Fighting Ground, World Tour and Battle Hub.",
+    "avgRating": 4.6,
+    "communityRatingCount": 11500
+  },
+  {
+    "id": "monster-hunter-world",
+    "title": "Monster Hunter: World",
+    "releaseYear": 2018,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Action RPG",
+      "Co-op",
+      "Hunting"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/582010/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/582010/library_hero.jpg",
+    "synopsis": "As a hunter, track and slay ferocious beasts across living, breathing ecosystems using a diverse arsenal of weapons and gear.",
+    "avgRating": 4.7,
+    "communityRatingCount": 24700
+  },
+  {
+    "id": "ghost-of-tsushima",
+    "title": "Ghost of Tsushima",
+    "releaseYear": 2020,
+    "developer": "Sucker Punch Productions",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Action-Adventure",
+      "Open World",
+      "Samurai"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2215430/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2215430/library_hero.jpg",
+    "synopsis": "In the late 13th century, samurai warrior Jin Sakai must set aside his code of honor to wage an unconventional war for the freedom of Tsushima.",
+    "avgRating": 4.8,
+    "communityRatingCount": 32100
+  },
+  {
+    "id": "death-stranding",
+    "title": "Death Stranding",
+    "releaseYear": 2019,
+    "developer": "Kojima Productions",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Action-Adventure",
+      "Sci-Fi",
+      "Atmospheric"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC",
+      "Mac",
+      "iOS"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1850570/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1850570/library_hero.jpg",
+    "synopsis": "In the near future, mysterious explosions have triggered the Death Stranding. Sam Porter Bridges must brave a transformed world to reconnect isolated cities.",
+    "avgRating": 4.5,
+    "communityRatingCount": 19800
+  },
+  {
+    "id": "yakuza-0",
+    "title": "Yakuza 0",
+    "releaseYear": 2015,
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "genres": [
+      "Action-Adventure",
+      "Beat 'em Up",
+      "Crime"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/638970/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/638970/library_hero.jpg",
+    "synopsis": "Experience 1988 Tokyo and Osaka through the eyes of junior yakuza Kazuma Kiryu and cabaret manager Goro Majima in a struggle over the 'Empty Lot'.",
+    "avgRating": 4.8,
+    "communityRatingCount": 17500
+  },
+  {
+    "id": "kingdom-hearts-2",
+    "title": "Kingdom Hearts II",
+    "releaseYear": 2005,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action RPG",
+      "Fantasy",
+      "Crossover"
+    ],
+    "platforms": [
+      "PS2",
+      "PS3",
+      "PS4",
+      "Xbox One",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2552450/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2552450/library_hero.jpg",
+    "synopsis": "Sora, Donald, and Goofy continue their quest to find Riku and King Mickey, confronting the enigmatic Organization XIII across Disney universes.",
+    "avgRating": 4.7,
+    "communityRatingCount": 16200
+  },
+  {
+    "id": "world-of-warcraft",
+    "title": "World of Warcraft",
+    "releaseYear": 2004,
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "genres": [
+      "MMORPG",
+      "Fantasy",
+      "Multiplayer"
+    ],
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x82.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/sc80fi.webp",
+    "synopsis": "Enter the world of Azeroth to take up arms for the Alliance or the Horde, forging alliances and conquering monumental raids in the landmark MMORPG.",
+    "avgRating": 4.7,
+    "communityRatingCount": 38700
+  },
+  {
+    "id": "team-fortress-2",
+    "title": "Team Fortress 2",
+    "releaseYear": 2007,
+    "developer": "Valve",
+    "publisher": "Valve",
+    "genres": [
+      "Hero Shooter",
+      "FPS",
+      "Multiplayer"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux",
+      "PS3",
+      "Xbox 360"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/440/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/440/library_hero.jpg",
+    "synopsis": "Nine distinct classes provide a broad range of tactical abilities and personalities in Valve's iconic, stylish team-based multiplayer shooter.",
+    "avgRating": 4.7,
+    "communityRatingCount": 31200
+  },
+  {
+    "id": "alan-wake-2",
+    "title": "Alan Wake 2",
+    "releaseYear": 2023,
+    "developer": "Remedy Entertainment",
+    "publisher": "Epic Games Publishing",
+    "genres": [
+      "Survival Horror",
+      "Psychological",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6qg7.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/sc80fk.webp",
+    "synopsis": "FBI agent Saga Anderson investigates ritualistic murders in Bright Falls, while trapped writer Alan Wake pens a dark story to shape the reality around him.",
+    "avgRating": 4.8,
+    "communityRatingCount": 14900
+  },
+  {
+    "id": "zelda-totk",
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "releaseYear": 2023,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "genres": [
+      "Action-Adventure",
+      "Open World",
+      "Sandbox"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vmg.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt6l.webp",
+    "synopsis": "An epic adventure across the land and skies of Hyrule awaits in the sequel to Breath of the Wild, fueled by Link's transformative Ultrahand ability.",
+    "avgRating": 4.8,
+    "communityRatingCount": 29800
+  },
+  {
+    "id": "zelda-oot",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "releaseYear": 1998,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genres": [
+      "Action-Adventure",
+      "Fantasy",
+      "Classic"
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "GameCube",
+      "3DS",
+      "Switch"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3nw8.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt6m.webp",
+    "synopsis": "A young boy named Link is guided by the fairy Navi to awaken seven sages, travel across time, and defeat the evil Ganondorf.",
+    "avgRating": 4.9,
+    "communityRatingCount": 39500
+  },
+  {
+    "id": "zelda-majoras-mask",
+    "title": "The Legend of Zelda: Majora's Mask",
+    "releaseYear": 2000,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genres": [
+      "Action-Adventure",
+      "Dark Fantasy",
+      "Classic"
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "GameCube",
+      "3DS",
+      "Switch"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3nw7.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt6n.webp",
+    "synopsis": "Trapped in the doomed realm of Termina, Link must relive a recurring three-day cycle to prevent the falling moon from destroying everything.",
+    "avgRating": 4.8,
+    "communityRatingCount": 26100
+  },
+  {
+    "id": "zelda-wind-waker",
+    "title": "The Legend of Zelda: The Wind Waker",
+    "releaseYear": 2002,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genres": [
+      "Action-Adventure",
+      "Open World",
+      "Fantasy"
+    ],
+    "platforms": [
+      "GameCube",
+      "Wii U"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21t4.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt6o.webp",
+    "synopsis": "Sail the vast Great Sea with the King of Red Lions in an expressive cel-shaded journey to rescue Link's sister and defeat an ancient evil.",
+    "avgRating": 4.7,
+    "communityRatingCount": 22400
+  },
+  {
+    "id": "super-mario-odyssey",
+    "title": "Super Mario Odyssey",
+    "releaseYear": 2017,
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "genres": [
+      "Platformer",
+      "3D Platformer",
+      "Adventure"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1m69.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt6p.webp",
+    "synopsis": "Embark on a globe-trotting sandbox adventure with Cappy, using hat-throwing captures to explore sprawling kingdoms and save Princess Peach.",
+    "avgRating": 4.7,
+    "communityRatingCount": 34200
+  },
+  {
+    "id": "super-mario-galaxy",
+    "title": "Super Mario Galaxy",
+    "releaseYear": 2007,
+    "developer": "Nintendo EAD Tokyo",
+    "publisher": "Nintendo",
+    "genres": [
+      "Platformer",
+      "3D Platformer",
+      "Classic"
+    ],
+    "platforms": [
+      "Wii",
+      "Wii U",
+      "Switch"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coag5y.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt6q.webp",
+    "synopsis": "Defy gravity across fantastical planetary spheres and galactic orbits in Mario's cosmic quest to restore the Grand Stars.",
+    "avgRating": 4.8,
+    "communityRatingCount": 28900
+  },
+  {
+    "id": "super-mario-world",
+    "title": "Super Mario World",
+    "releaseYear": 1990,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genres": [
+      "Platformer",
+      "2D Platformer",
+      "Retro"
+    ],
+    "platforms": [
+      "SNES",
+      "GBA",
+      "Switch"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4az5.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt6r.webp",
+    "synopsis": "Mario and Luigi explore Dinosaur Land with their loyal steed Yoshi, discovering dozens of secret exits in the pinnacle of 16-bit platforming.",
+    "avgRating": 4.8,
+    "communityRatingCount": 37400
+  },
+  {
+    "id": "super-metroid",
+    "title": "Super Metroid",
+    "releaseYear": 1994,
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genres": [
+      "Metroidvania",
+      "Sci-Fi",
+      "Action-Adventure"
+    ],
+    "platforms": [
+      "SNES",
+      "Switch"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5osy.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt6s.webp",
+    "synopsis": "Intergalactic bounty hunter Samus Aran descends into the subterranean depths of planet Zebes to retrieve the stolen last Metroid hatchling.",
+    "avgRating": 4.9,
+    "communityRatingCount": 33800
+  },
+  {
+    "id": "metroid-dread",
+    "title": "Metroid Dread",
+    "releaseYear": 2021,
+    "developer": "MercurySteam",
+    "publisher": "Nintendo",
+    "genres": [
+      "Metroidvania",
+      "Sci-Fi",
+      "Action"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3c7b.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt6t.webp",
+    "synopsis": "Samus Aran investigates planet ZDR, stalked by relentlessly lethal E.M.M.I. research robots in a tense return to 2D Metroid mastery.",
+    "avgRating": 4.6,
+    "communityRatingCount": 18700
+  },
+  {
+    "id": "final-fantasy-ix",
+    "title": "Final Fantasy IX",
+    "releaseYear": 2000,
+    "developer": "Square",
+    "publisher": "Square",
+    "genres": [
+      "JRPG",
+      "Turn-Based",
+      "Fantasy"
+    ],
+    "platforms": [
+      "PS1",
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch",
+      "iOS",
+      "Android"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/377840/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/377840/library_hero.jpg",
+    "synopsis": "Thief Zidane Tribal kidnaps Princess Garnet of Alexandria, becoming embroiled in an existential journey about life, identity, and legacy.",
+    "avgRating": 4.8,
+    "communityRatingCount": 23500
+  },
+  {
+    "id": "final-fantasy-vi",
+    "title": "Final Fantasy VI",
+    "releaseYear": 1994,
+    "developer": "Square",
+    "publisher": "Square",
+    "genres": [
+      "JRPG",
+      "Turn-Based",
+      "Steampunk"
+    ],
+    "platforms": [
+      "SNES",
+      "GBA",
+      "PC",
+      "PS4",
+      "Switch",
+      "Mobile"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1173820/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1173820/library_hero.jpg",
+    "synopsis": "In a world where magic has perished, a diverse cast unites against the Gestahlian Empire and the nihilistic court mage Kefka Palazzo.",
+    "avgRating": 4.9,
+    "communityRatingCount": 31200
+  },
+  {
+    "id": "final-fantasy-x",
+    "title": "Final Fantasy X",
+    "releaseYear": 2001,
+    "developer": "Square Product Development Division 1",
+    "publisher": "Square",
+    "genres": [
+      "JRPG",
+      "Turn-Based",
+      "Fantasy"
+    ],
+    "platforms": [
+      "PS2",
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox One",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/39210/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/39210/library_hero.jpg",
+    "synopsis": "Blitzball star Tidus awakens in Spira and joins summoner Yuna on her sacred pilgrimage to defeat the monstrous cataclysm known as Sin.",
+    "avgRating": 4.7,
+    "communityRatingCount": 29400
+  },
+  {
+    "id": "final-fantasy-xiv",
+    "title": "Final Fantasy XIV: A Realm Reborn",
+    "releaseYear": 2013,
+    "developer": "Square Enix Creative Studio III",
+    "publisher": "Square Enix",
+    "genres": [
+      "MMORPG",
+      "JRPG",
+      "Multiplayer"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox Series X/S",
+      "Mac"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/39210/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/39210/library_hero.jpg",
+    "synopsis": "Rebuilt from ruin into one of gaming's greatest narrative achievements, the Warrior of Light journeys across Hydaelyn through an epic saga.",
+    "avgRating": 4.8,
+    "communityRatingCount": 25700
+  },
+  {
+    "id": "final-fantasy-xvi",
+    "title": "Final Fantasy XVI",
+    "releaseYear": 2023,
+    "developer": "Square Enix Creative Studio III",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action RPG",
+      "Dark Fantasy"
+    ],
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2515020/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2515020/library_hero.jpg",
+    "synopsis": "Clive Rosfield, First Shield of Rosaria, embarks on a tragic road of vengeance and geopolitical rebellion against the Blight of Valisthea.",
+    "avgRating": 4.5,
+    "communityRatingCount": 16900
+  },
+  {
+    "id": "dark-souls-3",
+    "title": "Dark Souls III",
+    "releaseYear": 2016,
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "genres": [
+      "Action RPG",
+      "Soulslike",
+      "Dark Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/library_hero.jpg",
+    "synopsis": "As the fire fades and the Lords of Cinder abandon their thrones, the Ashen One arises to decide the fate of a dying, ash-strewn kingdom.",
+    "avgRating": 4.8,
+    "communityRatingCount": 36700
+  },
+  {
+    "id": "demons-souls",
+    "title": "Demon's Souls",
+    "releaseYear": 2020,
+    "developer": "Bluepoint Games",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Action RPG",
+      "Soulslike",
+      "Dark Fantasy"
+    ],
+    "platforms": [
+      "PS5"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co253v.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt70.webp",
+    "synopsis": "The gothic birthplace of the Soulslike genre reborn with jaw-dropping fidelity, challenging warriors to cleanse the fog-shrouded kingdom of Boletaria.",
+    "avgRating": 4.6,
+    "communityRatingCount": 19300
+  },
+  {
+    "id": "armored-core-6",
+    "title": "Armored Core VI: Fires of Rubicon",
+    "releaseYear": 2023,
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "genres": [
+      "Mecha",
+      "Action",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1888160/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1888160/library_hero.jpg",
+    "synopsis": "Pilot fully customized mechs across the devastated surface of Rubicon 3, taking contracts as Augmented Human C4-621 in high-octane 3D combat.",
+    "avgRating": 4.7,
+    "communityRatingCount": 17400
+  },
+  {
+    "id": "the-last-of-us-part-2",
+    "title": "The Last of Us Part II",
+    "releaseYear": 2020,
+    "developer": "Naughty Dog",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Action-Adventure",
+      "Survival Horror",
+      "Post-Apocalyptic"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2531310/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2531310/library_hero.jpg",
+    "synopsis": "Following a devastating trauma in Jackson, Ellie embarks on a relentless pursuit of vengeance through the hostile ruins of overgrown Seattle.",
+    "avgRating": 4.6,
+    "communityRatingCount": 38200
+  },
+  {
+    "id": "uncharted-2",
+    "title": "Uncharted 2: Among Thieves",
+    "releaseYear": 2009,
+    "developer": "Naughty Dog",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Action-Adventure",
+      "Cinematic",
+      "TPS"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1un4.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt73.webp",
+    "synopsis": "Treasure hunter Nathan Drake seeks Marco Polo's lost fleet and the mythical Cintamani Stone across Nepal and the Himalayan mountains.",
+    "avgRating": 4.8,
+    "communityRatingCount": 31800
+  },
+  {
+    "id": "uncharted-4",
+    "title": "Uncharted 4: A Thief's End",
+    "releaseYear": 2016,
+    "developer": "Naughty Dog",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Action-Adventure",
+      "Cinematic",
+      "TPS"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1659420/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1659420/library_hero.jpg",
+    "synopsis": "Retired adventurer Nathan Drake is pulled back into high-stakes danger when his long-lost brother Sam resurfaces seeking Captain Avery's treasure.",
+    "avgRating": 4.7,
+    "communityRatingCount": 35600
+  },
+  {
+    "id": "god-of-war-ragnarok",
+    "title": "God of War Ragnarök",
+    "releaseYear": 2022,
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Action-Adventure",
+      "Mythology",
+      "Hack and Slash"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322010/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322010/library_hero.jpg",
+    "synopsis": "Kratos and Atreus journey through the Nine Realms preparing for the prophesied battle that will end the Norse world.",
+    "avgRating": 4.8,
+    "communityRatingCount": 28400
+  },
+  {
+    "id": "horizon-zero-dawn",
+    "title": "Horizon Zero Dawn",
+    "releaseYear": 2017,
+    "developer": "Guerrilla Games",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2561580/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2561580/library_hero.jpg",
+    "synopsis": "Outcast hunter Aloy unravels the forgotten mysteries of a lush post-apocalyptic Earth overrun by colossal robotic beasts.",
+    "avgRating": 4.6,
+    "communityRatingCount": 32900
+  },
+  {
+    "id": "spiderman-2018",
+    "title": "Marvel's Spider-Man",
+    "releaseYear": 2018,
+    "developer": "Insomniac Games",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Action-Adventure",
+      "Superhero",
+      "Open World"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2651280/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2651280/library_hero.jpg",
+    "synopsis": "Web-sling through an impeccably realized Manhattan as an experienced Peter Parker balancing chaotic personal lives with superhuman duty.",
+    "avgRating": 4.7,
+    "communityRatingCount": 36100
+  },
+  {
+    "id": "spiderman-2-2023",
+    "title": "Marvel's Spider-Man 2",
+    "releaseYear": 2023,
+    "developer": "Insomniac Games",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Action-Adventure",
+      "Superhero",
+      "Open World"
+    ],
+    "platforms": [
+      "PS5"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2651280/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2651280/library_hero.jpg",
+    "synopsis": "Peter Parker and Miles Morales confront their greatest test as the monstrous Venom and Kraven the Hunter threaten New York City.",
+    "avgRating": 4.6,
+    "communityRatingCount": 21500
+  },
+  {
+    "id": "resident-evil-2-remake",
+    "title": "Resident Evil 2",
+    "releaseYear": 2019,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Survival Horror",
+      "TPS",
+      "Zombies"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/883710/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/883710/library_hero.jpg",
+    "synopsis": "Rookie cop Leon S. Kennedy and college student Claire Redfield battle through the infested Raccoon City Police Station to survive a biological disaster.",
+    "avgRating": 4.8,
+    "communityRatingCount": 29700
+  },
+  {
+    "id": "resident-evil-7",
+    "title": "Resident Evil 7: Biohazard",
+    "releaseYear": 2017,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Survival Horror",
+      "First-Person",
+      "Psychological"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/418370/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/418370/library_hero.jpg",
+    "synopsis": "Searching for his missing wife, Ethan Winters is trapped in the deranged Louisiana plantation home of the terrifying Baker family.",
+    "avgRating": 4.6,
+    "communityRatingCount": 24300
+  },
+  {
+    "id": "resident-evil-village",
+    "title": "Resident Evil Village",
+    "releaseYear": 2021,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Survival Horror",
+      "Action",
+      "Gothic"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Switch",
+      "iOS"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/library_hero.jpg",
+    "synopsis": "Ethan Winters fights through a snowbound European village ruled by Mother Miranda and four grotesque lords to rescue his kidnapped infant daughter.",
+    "avgRating": 4.6,
+    "communityRatingCount": 23100
+  },
+  {
+    "id": "dead-space-2023",
+    "title": "Dead Space",
+    "releaseYear": 2023,
+    "developer": "Motive Studio",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Survival Horror",
+      "Sci-Fi",
+      "TPS"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1693980/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1693980/library_hero.jpg",
+    "synopsis": "Engineer Isaac Clarke must survive horrific Necromorph monstrosities aboard the claustrophobic mining starship USG Ishimura.",
+    "avgRating": 4.8,
+    "communityRatingCount": 17200
+  },
+  {
+    "id": "silent-hill",
+    "title": "Silent Hill",
+    "releaseYear": 1999,
+    "developer": "Team Silent",
+    "publisher": "Konami",
+    "genres": [
+      "Psychological Horror",
+      "Survival Horror",
+      "Retro"
+    ],
+    "platforms": [
+      "PS1"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82vt.png",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt7d.webp",
+    "synopsis": "Harry Mason searches for his missing adopted daughter in a fog-drenched, demon-infested town shifting into a rusted alternate reality.",
+    "avgRating": 4.7,
+    "communityRatingCount": 18400
+  },
+  {
+    "id": "metal-gear-solid",
+    "title": "Metal Gear Solid",
+    "releaseYear": 1998,
+    "developer": "Konami Computer Entertainment Japan",
+    "publisher": "Konami",
+    "genres": [
+      "Stealth",
+      "Cinematic",
+      "Action"
+    ],
+    "platforms": [
+      "PS1",
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Switch"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpak.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt7e.webp",
+    "synopsis": "Solid Snake infiltrates a nuclear weapons disposal facility on Shadow Moses Island to neutralize the rogue terrorist unit FOXHOUND.",
+    "avgRating": 4.9,
+    "communityRatingCount": 35100
+  },
+  {
+    "id": "metal-gear-solid-2",
+    "title": "Metal Gear Solid 2: Sons of Liberty",
+    "releaseYear": 2001,
+    "developer": "Konami Computer Entertainment Japan",
+    "publisher": "Konami",
+    "genres": [
+      "Stealth",
+      "Postmodern",
+      "Action"
+    ],
+    "platforms": [
+      "PS2",
+      "Xbox",
+      "PS3",
+      "PC",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2131640/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2131640/library_hero.jpg",
+    "synopsis": "Rookie agent Raiden infiltrates the offshore Big Shell facility in Hideo Kojima's prescient exploration of digital control and misinformation.",
+    "avgRating": 4.8,
+    "communityRatingCount": 27600
+  },
+  {
+    "id": "metal-gear-solid-v",
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "releaseYear": 2015,
+    "developer": "Kojima Productions",
+    "publisher": "Konami",
+    "genres": [
+      "Stealth",
+      "Open World",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS3",
+      "Xbox One",
+      "Xbox 360"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/287700/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/287700/library_hero.jpg",
+    "synopsis": "Venom Snake establishes Diamond Dogs in Soviet-occupied Afghanistan and the Angola-Zaire border, orchestrating tactical sandbox espionage.",
+    "avgRating": 4.6,
+    "communityRatingCount": 28900
+  },
+  {
+    "id": "half-life",
+    "title": "Half-Life",
+    "releaseYear": 1998,
+    "developer": "Valve",
+    "publisher": "Sierra On-Line",
+    "genres": [
+      "FPS",
+      "Sci-Fi",
+      "Classic"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux",
+      "PS2"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/546560/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/546560/library_hero.jpg",
+    "synopsis": "Theoretical physicist Gordon Freeman fights for survival through Black Mesa after an anomalous experiment tears open an alien dimension.",
+    "avgRating": 4.8,
+    "communityRatingCount": 31400
+  },
+  {
+    "id": "half-life-alyx",
+    "title": "Half-Life: Alyx",
+    "releaseYear": 2020,
+    "developer": "Valve",
+    "publisher": "Valve",
+    "genres": [
+      "VR",
+      "FPS",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PC (VR)"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/546560/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/546560/library_hero.jpg",
+    "synopsis": "Alyx Vance wages a covert fight against the Combine occupation of City 17 in Valve's groundbreaking virtual reality benchmark.",
+    "avgRating": 4.9,
+    "communityRatingCount": 16800
+  },
+  {
+    "id": "portal",
+    "title": "Portal",
+    "releaseYear": 2007,
+    "developer": "Valve",
+    "publisher": "Valve",
+    "genres": [
+      "Puzzle",
+      "Sci-Fi",
+      "First-Person"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux",
+      "PS3",
+      "Xbox 360",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/620/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/620/library_hero.jpg",
+    "synopsis": "Armed with an Aperture Science Handheld Portal Device, test subject Chell navigates devious spatial test chambers guided by the sardonic GLaDOS.",
+    "avgRating": 4.8,
+    "communityRatingCount": 38900
+  },
+  {
+    "id": "left-4-dead-2",
+    "title": "Left 4 Dead 2",
+    "releaseYear": 2009,
+    "developer": "Valve",
+    "publisher": "Valve",
+    "genres": [
+      "Co-op",
+      "FPS",
+      "Zombies"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux",
+      "Xbox 360"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/550/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/550/library_hero.jpg",
+    "synopsis": "Four survivors battle through cities, swamps, and cemeteries across the Deep South against relentless hordes of infected in Valve's co-op classic.",
+    "avgRating": 4.7,
+    "communityRatingCount": 36200
+  },
+  {
+    "id": "cs2",
+    "title": "Counter-Strike 2",
+    "releaseYear": 2023,
+    "developer": "Valve",
+    "publisher": "Valve",
+    "genres": [
+      "Tactical FPS",
+      "Competitive",
+      "Multiplayer"
+    ],
+    "platforms": [
+      "PC",
+      "Linux"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/730/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/730/library_hero.jpg",
+    "synopsis": "The tactical 5v5 definitive shooter rebuilt on Source 2 with dynamic volumetric smokes and sub-tick precision architecture.",
+    "avgRating": 4.4,
+    "communityRatingCount": 27500
+  },
+  {
+    "id": "bioshock-infinite",
+    "title": "BioShock Infinite",
+    "releaseYear": 2013,
+    "developer": "Irrational Games",
+    "publisher": "2K",
+    "genres": [
+      "FPS",
+      "Story Rich",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox 360",
+      "Xbox One",
+      "Switch",
+      "Mac"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/8870/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/8870/library_hero.jpg",
+    "synopsis": "Former Pinkerton agent Booker DeWitt is sent to the floating cloud city of Columbia to rescue Elizabeth, a young woman with dimensional powers.",
+    "avgRating": 4.6,
+    "communityRatingCount": 34100
+  },
+  {
+    "id": "dishonored",
+    "title": "Dishonored",
+    "releaseYear": 2012,
+    "developer": "Arkane Studios",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "Immersive Sim",
+      "Stealth",
+      "Steampunk"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/403640/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/403640/library_hero.jpg",
+    "synopsis": "Framed for the murder of Empress Jessamine Kaldwin, bodyguard Corvo Attano utilizes supernatural abilities and stealth in plague-ridden Dunwall.",
+    "avgRating": 4.7,
+    "communityRatingCount": 29800
+  },
+  {
+    "id": "dishonored-2",
+    "title": "Dishonored 2",
+    "releaseYear": 2016,
+    "developer": "Arkane Studios",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "Immersive Sim",
+      "Stealth",
+      "Action-Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/403640/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/403640/library_hero.jpg",
+    "synopsis": "Play as Emily Kaldwin or Corvo Attano to reclaim the throne, mastering intricate level design and clockwork mansions in coastal Karnaca.",
+    "avgRating": 4.7,
+    "communityRatingCount": 21300
+  },
+  {
+    "id": "prey-2017",
+    "title": "Prey",
+    "releaseYear": 2017,
+    "developer": "Arkane Studios",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "Immersive Sim",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/480490/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/480490/library_hero.jpg",
+    "synopsis": "Morgan Yu awakens aboard the space station Talos I in 2032, surviving shapeshifting Typhon aliens using mind-bending neuromods and spatial wits.",
+    "avgRating": 4.7,
+    "communityRatingCount": 18900
+  },
+  {
+    "id": "doom-eternal",
+    "title": "DOOM Eternal",
+    "releaseYear": 2020,
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "FPS",
+      "Fast-Paced",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/782330/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/782330/library_hero.jpg",
+    "synopsis": "The Doom Slayer returns to Earth invaded by demonic hordes, delivering relentless combat puzzles of speed, resource-management, and glory kills.",
+    "avgRating": 4.8,
+    "communityRatingCount": 31200
+  },
+  {
+    "id": "doom-1993",
+    "title": "DOOM",
+    "releaseYear": 1993,
+    "developer": "id Software",
+    "publisher": "id Software",
+    "genres": [
+      "FPS",
+      "Retro",
+      "Classic"
+    ],
+    "platforms": [
+      "MS-DOS",
+      "PC",
+      "Consoles",
+      "Mobile"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3017860/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3017860/library_hero.jpg",
+    "synopsis": "The trailblazing first-person shooter that defined the genre, sending a solitary space marine through demon-infested corridors on the moons of Mars.",
+    "avgRating": 4.8,
+    "communityRatingCount": 32600
+  },
+  {
+    "id": "quake",
+    "title": "Quake",
+    "releaseYear": 1996,
+    "developer": "id Software",
+    "publisher": "GT Interactive",
+    "genres": [
+      "FPS",
+      "Gothic",
+      "Classic"
+    ],
+    "platforms": [
+      "PC",
+      "Consoles"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2210/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2210/library_hero.jpg",
+    "synopsis": "John Carmack's revolutionary fully 3D engine meets Trent Reznor's industrial soundscape in dark medieval slipgates of dimensional cosmic horror.",
+    "avgRating": 4.7,
+    "communityRatingCount": 19500
+  },
+  {
+    "id": "halo-ce",
+    "title": "Halo: Combat Evolved",
+    "releaseYear": 2001,
+    "developer": "Bungie",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "FPS",
+      "Sci-Fi",
+      "Classic"
+    ],
+    "platforms": [
+      "Xbox",
+      "PC",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1t9p.jpg",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt7t.webp",
+    "synopsis": "Crash-landing on an enigmatic ring-world, Master Chief and AI Cortana fight the Covenant and uncover the horrific parasitic threat of the Flood.",
+    "avgRating": 4.8,
+    "communityRatingCount": 35400
+  },
+  {
+    "id": "halo-2",
+    "title": "Halo 2",
+    "releaseYear": 2004,
+    "developer": "Bungie",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "FPS",
+      "Sci-Fi",
+      "Classic"
+    ],
+    "platforms": [
+      "Xbox",
+      "PC",
+      "Xbox One"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co753s.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt7u.webp",
+    "synopsis": "Experience two sides of the Great War as both Master Chief and the disgraced Covenant commander Arbiter in Bungie's monumental sequel.",
+    "avgRating": 4.8,
+    "communityRatingCount": 33700
+  },
+  {
+    "id": "halo-reach",
+    "title": "Halo: Reach",
+    "releaseYear": 2010,
+    "developer": "Bungie",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "FPS",
+      "Military Sci-Fi"
+    ],
+    "platforms": [
+      "Xbox 360",
+      "Xbox One",
+      "PC"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xha.jpg",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt7v.webp",
+    "synopsis": "Noble Team makes their courageous, heartbreaking final stand defending humanity's fortress planet Reach from overwhelming Covenant conquest.",
+    "avgRating": 4.8,
+    "communityRatingCount": 31200
+  },
+  {
+    "id": "fallout-3",
+    "title": "Fallout 3",
+    "releaseYear": 2008,
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Post-Apocalyptic"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/22370/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/22370/library_hero.jpg",
+    "synopsis": "Emerging from underground Vault 101 into the nuclear ruins of Washington D.C., the Lone Wanderer searches for their father across the Capital Wasteland.",
+    "avgRating": 4.6,
+    "communityRatingCount": 31900
+  },
+  {
+    "id": "fallout-4",
+    "title": "Fallout 4",
+    "releaseYear": 2015,
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Post-Apocalyptic"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/377160/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/377160/library_hero.jpg",
+    "synopsis": "As the sole survivor of Vault 111, enter the devastated Commonwealth of Boston to reconstruct settlements and locate your kidnapped son.",
+    "avgRating": 4.4,
+    "communityRatingCount": 35200
+  },
+  {
+    "id": "morrowind",
+    "title": "The Elder Scrolls III: Morrowind",
+    "releaseYear": 2002,
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "CRPG",
+      "Open World",
+      "Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/22320/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/22320/library_hero.jpg",
+    "synopsis": "Arriving by prison ship in the exotic volcanic province of Vvardenfell, an incarnate hero uncovers the prophecy of the Nerevarine.",
+    "avgRating": 4.8,
+    "communityRatingCount": 22800
+  },
+  {
+    "id": "oblivion",
+    "title": "The Elder Scrolls IV: Oblivion",
+    "releaseYear": 2006,
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/22330/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/22330/library_hero.jpg",
+    "synopsis": "Following the assassination of Emperor Uriel Septim VII, close the Daedric gates opening across Cyrodiil to halt the invasion of Mehrunes Dagon.",
+    "avgRating": 4.6,
+    "communityRatingCount": 28300
+  },
+  {
+    "id": "starfield",
+    "title": "Starfield",
+    "releaseYear": 2023,
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1716740/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1716740/library_hero.jpg",
+    "synopsis": "Join space exploration organization Constellation in the Settled Systems to seek out ancient alien artifacts across over a thousand planets.",
+    "avgRating": 4.1,
+    "communityRatingCount": 21600
+  },
+  {
+    "id": "gta-san-andreas",
+    "title": "Grand Theft Auto: San Andreas",
+    "releaseYear": 2004,
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "genres": [
+      "Action-Adventure",
+      "Open World",
+      "Crime"
+    ],
+    "platforms": [
+      "PS2",
+      "Xbox",
+      "PC",
+      "Consoles",
+      "Mobile"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1546990/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1546990/library_hero.jpg",
+    "synopsis": "Carl 'CJ' Johnson returns to Los Santos to avenge his mother's murder, reclaiming the streets of Grove Street across a sprawling 1990s state.",
+    "avgRating": 4.8,
+    "communityRatingCount": 41800
+  },
+  {
+    "id": "gta-vice-city",
+    "title": "Grand Theft Auto: Vice City",
+    "releaseYear": 2002,
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "genres": [
+      "Action-Adventure",
+      "Open World",
+      "Crime"
+    ],
+    "platforms": [
+      "PS2",
+      "Xbox",
+      "PC",
+      "Mobile"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1546970/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1546970/library_hero.jpg",
+    "synopsis": "Tommy Vercetti rises through the neon-drenched, synth-fueled criminal underworld of 1986 Vice City in Rockstar's Scarface-inspired classic.",
+    "avgRating": 4.7,
+    "communityRatingCount": 33400
+  },
+  {
+    "id": "red-dead-redemption",
+    "title": "Red Dead Redemption",
+    "releaseYear": 2010,
+    "developer": "Rockstar San Diego",
+    "publisher": "Rockstar Games",
+    "genres": [
+      "Action-Adventure",
+      "Western",
+      "Open World"
+    ],
+    "platforms": [
+      "PS3",
+      "Xbox 360",
+      "PS4",
+      "Switch",
+      "PC"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7w.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt83.webp",
+    "synopsis": "Former outlaw John Marston is forced by federal agents to hunt down the remaining members of his old gang along the dying American frontier.",
+    "avgRating": 4.8,
+    "communityRatingCount": 37900
+  },
+  {
+    "id": "bully",
+    "title": "Bully",
+    "releaseYear": 2006,
+    "developer": "Rockstar Vancouver",
+    "publisher": "Rockstar Games",
+    "genres": [
+      "Action-Adventure",
+      "Open World",
+      "Comedy"
+    ],
+    "platforms": [
+      "PS2",
+      "Xbox 360",
+      "Wii",
+      "PC",
+      "Mobile"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x4g.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt84.webp",
+    "synopsis": "Troublesome teenager Jimmy Hopkins navigates social cliques, pranksters, and corrupt faculty at the dysfunctional Bullworth Academy prep school.",
+    "avgRating": 4.6,
+    "communityRatingCount": 22100
+  },
+  {
+    "id": "mass-effect",
+    "title": "Mass Effect",
+    "releaseYear": 2007,
+    "developer": "BioWare",
+    "publisher": "Microsoft Game Studios / EA",
+    "genres": [
+      "Action RPG",
+      "Sci-Fi",
+      "Space Opera"
+    ],
+    "platforms": [
+      "Xbox 360",
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/17460/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/17460/library_hero.jpg",
+    "synopsis": "Commander Shepard becomes the first human Spectre, captaining the SSV Normandy to uncover the galactic existential threat of the Reapers.",
+    "avgRating": 4.6,
+    "communityRatingCount": 27800
+  },
+  {
+    "id": "mass-effect-3",
+    "title": "Mass Effect 3",
+    "releaseYear": 2012,
+    "developer": "BioWare",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Action RPG",
+      "Sci-Fi",
+      "Space Opera"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360",
+      "Wii U",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1238020/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1238020/library_hero.jpg",
+    "synopsis": "Earth is burning under the Reaper armada, compelling Commander Shepard to forge desperate interstellar alliances in a climactic war for survival.",
+    "avgRating": 4.5,
+    "communityRatingCount": 30100
+  },
+  {
+    "id": "dragon-age-origins",
+    "title": "Dragon Age: Origins",
+    "releaseYear": 2009,
+    "developer": "BioWare",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "CRPG",
+      "Dark Fantasy",
+      "Party-Based"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/47810/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/47810/library_hero.jpg",
+    "synopsis": "As one of the few remaining Grey Wardens, recruit allies across the kingdom of Ferelden to halt the Fifth Blight and the Archdemon.",
+    "avgRating": 4.8,
+    "communityRatingCount": 26500
+  },
+  {
+    "id": "dragon-age-inquisition",
+    "title": "Dragon Age: Inquisition",
+    "releaseYear": 2014,
+    "developer": "BioWare",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS3",
+      "Xbox One",
+      "Xbox 360"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222690/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222690/library_hero.jpg",
+    "synopsis": "Lead the newly re-established Inquisition to close tears in the Veil and settle continent-spanning religious wars in Thedas.",
+    "avgRating": 4.5,
+    "communityRatingCount": 24700
+  },
+  {
+    "id": "divinity-original-sin-2",
+    "title": "Divinity: Original Sin II",
+    "releaseYear": 2017,
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "genres": [
+      "CRPG",
+      "Turn-Based",
+      "Tactical"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "PS4",
+      "Xbox One",
+      "Switch",
+      "iPad"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/435150/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/435150/library_hero.jpg",
+    "synopsis": "Escape the prison island of Fort Joy and ascend to Divinity in Larian's benchmark sandbox RPG featuring deep elemental interaction.",
+    "avgRating": 4.9,
+    "communityRatingCount": 30400
+  },
+  {
+    "id": "pillars-of-eternity",
+    "title": "Pillars of Eternity",
+    "releaseYear": 2015,
+    "developer": "Obsidian Entertainment",
+    "publisher": "Paradox Interactive",
+    "genres": [
+      "CRPG",
+      "Isometric",
+      "Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/291650/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/291650/library_hero.jpg",
+    "synopsis": "Awakened as a 'Watcher' who can perceive souls and past lives, uncover the mystery of the hollowborn plague afflicting the Dyrwood.",
+    "avgRating": 4.6,
+    "communityRatingCount": 16200
+  },
+  {
+    "id": "baldurs-gate-2",
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "releaseYear": 2000,
+    "developer": "BioWare",
+    "publisher": "Black Isle Studios",
+    "genres": [
+      "CRPG",
+      "D&D",
+      "Classic"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux",
+      "Consoles",
+      "Mobile"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/257350/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/257350/library_hero.jpg",
+    "synopsis": "The child of Bhaal escapes the dungeon of the sadistic mage Jon Irenicus, journeying across the rich land of Amn to reclaim their divine soul.",
+    "avgRating": 4.9,
+    "communityRatingCount": 23100
+  },
+  {
+    "id": "persona-4-golden",
+    "title": "Persona 4 Golden",
+    "releaseYear": 2012,
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "genres": [
+      "JRPG",
+      "Social Sim",
+      "Mystery"
+    ],
+    "platforms": [
+      "PS Vita",
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1113000/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1113000/library_hero.jpg",
+    "synopsis": "A group of high school friends investigate supernatural murders connected to the mysterious Midnight Channel in the rural town of Inaba.",
+    "avgRating": 4.8,
+    "communityRatingCount": 26900
+  },
+  {
+    "id": "persona-3-reload",
+    "title": "Persona 3 Reload",
+    "releaseYear": 2024,
+    "developer": "P-Studio",
+    "publisher": "Atlus / Sega",
+    "genres": [
+      "JRPG",
+      "Social Sim",
+      "Turn-Based"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2161700/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2161700/library_hero.jpg",
+    "synopsis": "Join SEES during the hidden Dark Hour, scaling the towering labyrinth of Tartarus to confront Shadows and accept the inevitability of mortality.",
+    "avgRating": 4.8,
+    "communityRatingCount": 18100
+  },
+  {
+    "id": "smt-v",
+    "title": "Shin Megami Tensei V: Vengeance",
+    "releaseYear": 2021,
+    "developer": "Atlus",
+    "publisher": "Sega",
+    "genres": [
+      "JRPG",
+      "Turn-Based",
+      "Post-Apocalyptic"
+    ],
+    "platforms": [
+      "Nintendo Switch",
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1875830/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1875830/library_hero.jpg",
+    "synopsis": "Transformed into the divine Nahobino, fuse and recruit mythological demons while wandering the sands of apocalyptic Da'at.",
+    "avgRating": 4.6,
+    "communityRatingCount": 14700
+  },
+  {
+    "id": "nier-automata",
+    "title": "NieR: Automata",
+    "releaseYear": 2017,
+    "developer": "PlatinumGames",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action RPG",
+      "Hack and Slash",
+      "Philosophical"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/524220/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/524220/library_hero.jpg",
+    "synopsis": "Android combatants 2B, 9S, and A2 fight proxy wars for humanity against machine lifeforms in Yoko Taro's poignant existential masterpiece.",
+    "avgRating": 4.8,
+    "communityRatingCount": 37500
+  },
+  {
+    "id": "nier-replicant",
+    "title": "NieR Replicant ver.1.22474487139...",
+    "releaseYear": 2021,
+    "developer": "Toylogic",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action RPG",
+      "Story Rich",
+      "Dark Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1113560/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1113560/library_hero.jpg",
+    "synopsis": "A devoted brother searches for a cure for his sister Yonah's Black Scrawl illness accompanied by the talking grimoire Grimoire Weiss.",
+    "avgRating": 4.7,
+    "communityRatingCount": 16800
+  },
+  {
+    "id": "like-a-dragon-infinite-wealth",
+    "title": "Like a Dragon: Infinite Wealth",
+    "releaseYear": 2024,
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "genres": [
+      "JRPG",
+      "Turn-Based",
+      "Comedy"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2072450/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2072450/library_hero.jpg",
+    "synopsis": "Ichiban Kasuga and the legendary Kazuma Kiryu team up across the sunny streets of Honolulu, Hawaii in an emotional, comedic turn-based epic.",
+    "avgRating": 4.8,
+    "communityRatingCount": 15400
+  },
+  {
+    "id": "yakuza-like-a-dragon",
+    "title": "Yakuza: Like a Dragon",
+    "releaseYear": 2020,
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "genres": [
+      "JRPG",
+      "Turn-Based",
+      "Crime"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1235140/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1235140/library_hero.jpg",
+    "synopsis": "Loyal yakuza grunt Ichiban Kasuga takes the fall for his patriarch, emerging 18 years later in Yokohama to build an underdog party of misfits.",
+    "avgRating": 4.7,
+    "communityRatingCount": 22300
+  },
+  {
+    "id": "judgment",
+    "title": "Judgment",
+    "releaseYear": 2018,
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "Sega",
+    "genres": [
+      "Action-Adventure",
+      "Mystery",
+      "Beat 'em Up"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2058190/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2058190/library_hero.jpg",
+    "synopsis": "Disgraced lawyer turned private investigator Takayuki Yagami unravels a sinister serial killer conspiracy beneath Kamurocho's criminal underworld.",
+    "avgRating": 4.7,
+    "communityRatingCount": 16100
+  },
+  {
+    "id": "monster-hunter-rise",
+    "title": "Monster Hunter Rise",
+    "releaseYear": 2021,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Action RPG",
+      "Co-op",
+      "Hunting"
+    ],
+    "platforms": [
+      "Switch",
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1446780/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1446780/library_hero.jpg",
+    "synopsis": "Soar across vibrant hunting biomes with the agile Wirebug to defend Kamura Village from the ferocious monster stampede known as the Rampage.",
+    "avgRating": 4.6,
+    "communityRatingCount": 21900
+  },
+  {
+    "id": "dragons-dogma-dark-arisen",
+    "title": "Dragon's Dogma: Dark Arisen",
+    "releaseYear": 2012,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Dark Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox 360",
+      "Xbox One",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/367500/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/367500/library_hero.jpg",
+    "synopsis": "Chosen as the Arisen after having your heart stolen by a dragon, command customizable AI Pawns and climb colossal mythical beasts in Gransys.",
+    "avgRating": 4.6,
+    "communityRatingCount": 19800
+  },
+  {
+    "id": "dragons-dogma-2",
+    "title": "Dragon's Dogma 2",
+    "releaseYear": 2024,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Action RPG",
+      "Open World",
+      "Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2054970/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2054970/library_hero.jpg",
+    "synopsis": "A narrative sandbox where vocation synergies and emergent physics create unforgettable emergent journeys across human and beastren realms.",
+    "avgRating": 4.4,
+    "communityRatingCount": 16700
+  },
+  {
+    "id": "sf-3rd-strike",
+    "title": "Street Fighter III: 3rd Strike",
+    "releaseYear": 1999,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Fighting",
+      "2D Fighter",
+      "Classic"
+    ],
+    "platforms": [
+      "Arcade",
+      "Dreamcast",
+      "PS2",
+      "Xbox",
+      "Consoles"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bkh.png",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt8n.webp",
+    "synopsis": "The gold standard of 2D competitive fighting, featuring iconic hand-drawn sprite animation, jazzy hip-hop rhythms, and the legendary parry system.",
+    "avgRating": 4.9,
+    "communityRatingCount": 22400
+  },
+  {
+    "id": "tekken-3",
+    "title": "Tekken 3",
+    "releaseYear": 1997,
+    "developer": "Namco",
+    "publisher": "Namco",
+    "genres": [
+      "Fighting",
+      "3D Fighter",
+      "Classic"
+    ],
+    "platforms": [
+      "Arcade",
+      "PS1"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8d7r.jpg",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt8o.webp",
+    "synopsis": "Jin Kazama, Ling Xiaoyu, and Eddy Gordo debut in the quintessential 3D fighter that pushed the original PlayStation to its absolute limits.",
+    "avgRating": 4.8,
+    "communityRatingCount": 28900
+  },
+  {
+    "id": "tekken-8",
+    "title": "Tekken 8",
+    "releaseYear": 2024,
+    "developer": "Bandai Namco Studios",
+    "publisher": "Bandai Namco Entertainment",
+    "genres": [
+      "Fighting",
+      "3D Fighter",
+      "Competitive"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1778820/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1778820/library_hero.jpg",
+    "synopsis": "Fist meets fate as Jin Kazama clashes with Kazuya Mishima, built from the ground up in Unreal Engine 5 with the aggressive new Heat system.",
+    "avgRating": 4.7,
+    "communityRatingCount": 15300
+  },
+  {
+    "id": "guilty-gear-strive",
+    "title": "Guilty Gear -Strive-",
+    "releaseYear": 2021,
+    "developer": "Arc System Works",
+    "publisher": "Arc System Works",
+    "genres": [
+      "Fighting",
+      "Anime",
+      "Competitive"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1384160/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1384160/library_hero.jpg",
+    "synopsis": "Daisuke Ishiwatari's anime fighting series hits overdrive with blistering metal anthems, hybrid 3D-2D cel-shading, and wall-breaking mechanics.",
+    "avgRating": 4.7,
+    "communityRatingCount": 16400
+  },
+  {
+    "id": "smash-ultimate",
+    "title": "Super Smash Bros. Ultimate",
+    "releaseYear": 2018,
+    "developer": "Bandai Namco Studios / Sora Ltd.",
+    "publisher": "Nintendo",
+    "genres": [
+      "Platform Fighter",
+      "Crossover",
+      "Multiplayer"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p9k.webp",
+    "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt8r.webp",
+    "synopsis": "'Everyone is here!' The grandest celebration in video game history unites 89 fighters, 100+ stages, and hundreds of legendary anthems.",
+    "avgRating": 4.8,
+    "communityRatingCount": 38700
+  },
+  {
+    "id": "slay-the-spire",
+    "title": "Slay the Spire",
+    "releaseYear": 2019,
+    "developer": "Mega Crit",
+    "publisher": "Humble Games",
+    "genres": [
+      "Roguelike",
+      "Deckbuilder",
+      "Strategy"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux",
+      "PS4",
+      "Xbox One",
+      "Switch",
+      "Mobile"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2868840/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2868840/library_hero.jpg",
+    "synopsis": "Craft a unique deck of cards, encounter bizarre creatures, and discover relics of immense power in the defining roguelike deckbuilder.",
+    "avgRating": 4.8,
+    "communityRatingCount": 31200
+  },
+  {
+    "id": "balatro",
+    "title": "Balatro",
+    "releaseYear": 2024,
+    "developer": "LocalThunk",
+    "publisher": "Playstack",
+    "genres": [
+      "Roguelike",
+      "Card Game",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Switch",
+      "Mobile"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2379780/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2379780/library_hero.jpg",
+    "synopsis": "Play illegal poker hands, discover game-changing Joker cards, and trigger outrageous, dopamine-inducing score multipliers.",
+    "avgRating": 4.9,
+    "communityRatingCount": 22800
+  },
+  {
+    "id": "dead-cells",
+    "title": "Dead Cells",
+    "releaseYear": 2018,
+    "developer": "Motion Twin",
+    "publisher": "Motion Twin",
+    "genres": [
+      "Roguelike",
+      "Metroidvania",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux",
+      "PS4",
+      "Xbox One",
+      "Switch",
+      "Mobile"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/588650/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/588650/library_hero.jpg",
+    "synopsis": "A rogue-lite, 'roguevania' action platformer where you explore a sprawling, ever-changing island castle with fluid, kinetic combat.",
+    "avgRating": 4.7,
+    "communityRatingCount": 27900
+  },
+  {
+    "id": "risk-of-rain-2",
+    "title": "Risk of Rain 2",
+    "releaseYear": 2020,
+    "developer": "Hopoo Games",
+    "publisher": "Gearbox Publishing",
+    "genres": [
+      "Roguelike",
+      "TPS",
+      "Co-op"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/632360/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/632360/library_hero.jpg",
+    "synopsis": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters with friends or solo, scaling difficulty constantly with time.",
+    "avgRating": 4.7,
+    "communityRatingCount": 24600
+  },
+  {
+    "id": "vampire-survivors",
+    "title": "Vampire Survivors",
+    "releaseYear": 2022,
+    "developer": "poncle",
+    "publisher": "poncle",
+    "genres": [
+      "Roguelike",
+      "Bullet Hell",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "Xbox",
+      "Switch",
+      "Mobile",
+      "PS4",
+      "PS5"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1794680/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1794680/library_hero.jpg",
+    "synopsis": "Mow down thousands of night creatures and survive until dawn in the addictively hypnotic gothic survival sensation.",
+    "avgRating": 4.6,
+    "communityRatingCount": 28900
+  },
+  {
+    "id": "tunic",
+    "title": "Tunic",
+    "releaseYear": 2022,
+    "developer": "Andrew Shouldice",
+    "publisher": "Finji",
+    "genres": [
+      "Action-Adventure",
+      "Isometric",
+      "Puzzle"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/553420/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/553420/library_hero.jpg",
+    "synopsis": "Explore a land filled with lost legends and ancient monsters as a tiny fox, piecing together the mysterious pages of an in-game instruction booklet.",
+    "avgRating": 4.7,
+    "communityRatingCount": 19400
+  },
+  {
+    "id": "ori-blind-forest",
+    "title": "Ori and the Blind Forest",
+    "releaseYear": 2015,
+    "developer": "Moon Studios",
+    "publisher": "Microsoft Studios",
+    "genres": [
+      "Metroidvania",
+      "Platformer",
+      "Atmospheric"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/261570/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/261570/library_hero.jpg",
+    "synopsis": "The forest of Nibel is dying; a young orphan spirit must confront a dark nemesis to save their home in a visually breathtaking platformer.",
+    "avgRating": 4.7,
+    "communityRatingCount": 29500
+  },
+  {
+    "id": "ori-will-of-the-wisps",
+    "title": "Ori and the Will of the Wisps",
+    "releaseYear": 2020,
+    "developer": "Moon Studios",
+    "publisher": "Xbox Game Studios",
+    "genres": [
+      "Metroidvania",
+      "Platformer",
+      "Action-Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1057090/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1057090/library_hero.jpg",
+    "synopsis": "Ori embarks on a journey beyond the forest of Nibel to reunite a family and discover their true destiny with kinetic, weapon-based combat.",
+    "avgRating": 4.8,
+    "communityRatingCount": 26800
+  },
+  {
+    "id": "sea-of-stars",
+    "title": "Sea of Stars",
+    "releaseYear": 2023,
+    "developer": "Sabotage Studio",
+    "publisher": "Sabotage Studio",
+    "genres": [
+      "JRPG",
+      "Turn-Based",
+      "Pixel Art"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1244090/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1244090/library_hero.jpg",
+    "synopsis": "Two Children of the Solstice combine sun and moon magic to perform Eclipse Magic in a love letter to 90s golden-age turn-based RPGs.",
+    "avgRating": 4.6,
+    "communityRatingCount": 17200
+  },
+  {
+    "id": "dave-the-diver",
+    "title": "Dave the Diver",
+    "releaseYear": 2023,
+    "developer": "MINTROCKET",
+    "publisher": "MINTROCKET",
+    "genres": [
+      "Adventure",
+      "Management",
+      "Indie"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "Switch",
+      "PS4",
+      "PS5"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1868140/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1868140/library_hero.jpg",
+    "synopsis": "Deep-sea exploration by day meets bustling sushi restaurant management by night around the mysterious and ever-changing Blue Hole.",
+    "avgRating": 4.7,
+    "communityRatingCount": 22100
+  },
+  {
+    "id": "subnautica",
+    "title": "Subnautica",
+    "releaseYear": 2018,
+    "developer": "Unknown Worlds Entertainment",
+    "publisher": "Unknown Worlds Entertainment",
+    "genres": [
+      "Survival",
+      "Open World",
+      "Underwater"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/264710/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/264710/library_hero.jpg",
+    "synopsis": "Descend into the depths of an alien underwater ocean world, managing your oxygen supply, crafting submersibles, and dodging leviathans.",
+    "avgRating": 4.8,
+    "communityRatingCount": 31500
+  },
+  {
+    "id": "the-witness",
+    "title": "The Witness",
+    "releaseYear": 2016,
+    "developer": "Thekla, Inc.",
+    "publisher": "Thekla, Inc.",
+    "genres": [
+      "Puzzle",
+      "Open World",
+      "Philosophical"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "iOS",
+      "Mac"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/210970/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/210970/library_hero.jpg",
+    "synopsis": "You wake up on a strange island full of interconnected line puzzles that challenge your perception, perspective, and understanding of the world.",
+    "avgRating": 4.6,
+    "communityRatingCount": 21400
+  },
+  {
+    "id": "inside",
+    "title": "Inside",
+    "releaseYear": 2016,
+    "developer": "Playdead",
+    "publisher": "Playdead",
+    "genres": [
+      "Puzzle-Platformer",
+      "Dystopian",
+      "Atmospheric"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch",
+      "iOS"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/304430/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/304430/library_hero.jpg",
+    "synopsis": "Hunted and alone, a young boy finds himself drawn into the dark, totalitarian center of a sinister research project in Playdead's masterpiece.",
+    "avgRating": 4.8,
+    "communityRatingCount": 30800
+  },
+  {
+    "id": "limbo",
+    "title": "Limbo",
+    "releaseYear": 2010,
+    "developer": "Playdead",
+    "publisher": "Playdead / Microsoft Game Studios",
+    "genres": [
+      "Puzzle-Platformer",
+      "Monochrome",
+      "Horror"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PS3",
+      "Consoles",
+      "Mobile"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/48000/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/48000/library_hero.jpg",
+    "synopsis": "Uncertain of his sister's fate, a young boy enters the black-and-white, shadowy nightmare world of Limbo.",
+    "avgRating": 4.6,
+    "communityRatingCount": 33400
+  },
+  {
+    "id": "braid",
+    "title": "Braid",
+    "releaseYear": 2008,
+    "developer": "Number None",
+    "publisher": "Number None",
+    "genres": [
+      "Puzzle-Platformer",
+      "Time Manipulation",
+      "Indie"
+    ],
+    "platforms": [
+      "Xbox 360",
+      "PC",
+      "Mac",
+      "Linux",
+      "PS3",
+      "Consoles"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/499180/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/499180/library_hero.jpg",
+    "synopsis": "Manipulate the flow of time in unusual and unexpected ways to solve painterly puzzles in Jonathan Blow's seminal indie classic.",
+    "avgRating": 4.7,
+    "communityRatingCount": 24500
+  },
+  {
+    "id": "hotline-miami",
+    "title": "Hotline Miami",
+    "releaseYear": 2012,
+    "developer": "Dennaton Games",
+    "publisher": "Devolver Digital",
+    "genres": [
+      "Top-Down Action",
+      "Neon",
+      "Fast-Paced"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "PS Vita",
+      "Xbox One",
+      "Switch"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/219150/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/219150/library_hero.jpg",
+    "synopsis": "A high-octane neon bloodbath set in an alternative 1989 Miami, driven by cryptic answering machine messages and hypnotic synthwave beats.",
+    "avgRating": 4.7,
+    "communityRatingCount": 31800
+  },
+  {
+    "id": "katana-zero",
+    "title": "Katana Zero",
+    "releaseYear": 2019,
+    "developer": "Askiisoft",
+    "publisher": "Devolver Digital",
+    "genres": [
+      "Action",
+      "Neo-Noir",
+      "Hack and Slash"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "Switch",
+      "Xbox One"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/460950/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/460950/library_hero.jpg",
+    "synopsis": "Slash, dash, and manipulate time to unravel your past in a stylish neo-noir dystopia fueled by government combat drugs.",
+    "avgRating": 4.7,
+    "communityRatingCount": 22700
+  },
+  {
+    "id": "returnal",
+    "title": "Returnal",
+    "releaseYear": 2021,
+    "developer": "Housemarque",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Roguelike",
+      "Bullet Hell",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1649240/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1649240/library_hero.jpg",
+    "synopsis": "After crash-landing on the shape-shifting planet Atropos, ASTRA scout Selene must fight through bullet-hell horrors caught in an inescapable cycle of resurrection.",
+    "avgRating": 4.6,
+    "communityRatingCount": 18300
+  },
+  {
+    "id": "hi-fi-rush",
+    "title": "Hi-Fi Rush",
+    "releaseYear": 2023,
+    "developer": "Tango Gameworks",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "Rhythm",
+      "Action",
+      "Hack and Slash"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox Series X/S",
+      "PS5"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1817230/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1817230/library_hero.jpg",
+    "synopsis": "Wannabe rockstar Chai and his ragtag team rebel against a shady robotics corporation where the entire world pulses to the beat of licensed rock music.",
+    "avgRating": 4.7,
+    "communityRatingCount": 21900
+  },
+  {
+    "id": "lies-of-p",
+    "title": "Lies of P",
+    "releaseYear": 2023,
+    "developer": "Round8 Studio",
+    "publisher": "Neowiz",
+    "genres": [
+      "Soulslike",
+      "Action RPG",
+      "Gothic"
+    ],
+    "platforms": [
+      "PC",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1627720/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1627720/library_hero.jpg",
+    "synopsis": "A thrilling Belle Époque dark fantasy reimagining the classic tale of Pinocchio, where truth and deception dictate your humanity amidst puppet madness.",
+    "avgRating": 4.7,
+    "communityRatingCount": 23400
+  },
+  {
+    "id": "black-myth-wukong",
+    "title": "Black Myth: Wukong",
+    "releaseYear": 2024,
+    "developer": "Game Science",
+    "publisher": "Game Science",
+    "genres": [
+      "Action RPG",
+      "Mythology",
+      "Soulslike"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/library_hero.jpg",
+    "synopsis": "As the Destined One, venture into a breathtaking realm steeped in ancient Chinese mythology to uncover the obscured truth behind the legend of the Monkey King.",
+    "avgRating": 4.8,
+    "communityRatingCount": 35900
+  }
+]
