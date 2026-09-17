@@ -29,17 +29,25 @@ export class ProfileController {
     const stats = store.getProfileStats();
     const topFourGames = (profile.topFour || []).map(id => store.getGameById(id)).filter(Boolean);
 
+    const initials = (profile.username || 'P').trim().slice(0, 2).toUpperCase();
+
     this.container.innerHTML = `
       <div class="profile-header">
         <div class="profile-user-row">
-          <div class="profile-avatar">
-            <span class="avatar-initials">${profile.username.slice(0, 2).toUpperCase()}</span>
+          <div class="profile-avatar" id="profile-avatar-trigger" style="cursor: pointer;" title="Click to edit profile">
+            ${profile.avatarUrl 
+              ? `<img src="${profile.avatarUrl}" alt="${profile.username}" class="avatar-img" />` 
+              : `<span class="avatar-initials">${initials}</span>`}
           </div>
           <div class="profile-identity">
             <h2 class="profile-username">${profile.username}</h2>
-            <p class="profile-bio">${profile.bio}</p>
+            <p class="profile-bio">${profile.bio || 'Curator, critic, and completionist.'}</p>
           </div>
           <div class="profile-header-actions">
+            <button type="button" class="btn btn-primary btn-sm" id="btn-edit-profile" title="Edit username, bio, and avatar">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+              Edit Profile
+            </button>
             <button type="button" class="btn btn-secondary btn-sm" id="btn-export-backup" title="Download backup of all ratings & logs">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
               Export JSON
@@ -300,6 +308,21 @@ export class ProfileController {
         window.location.hash = `#rankings?list=${listId}`;
       });
     });
+
+    // Edit Profile Modal
+    const editProfileBtn = this.container.querySelector('#btn-edit-profile');
+    if (editProfileBtn) {
+      editProfileBtn.addEventListener('click', () => {
+        this.openModal('edit-profile');
+      });
+    }
+
+    const avatarTrigger = this.container.querySelector('#profile-avatar-trigger');
+    if (avatarTrigger) {
+      avatarTrigger.addEventListener('click', () => {
+        this.openModal('edit-profile');
+      });
+    }
 
     // Export Backup
     const exportBtn = this.container.querySelector('#btn-export-backup');

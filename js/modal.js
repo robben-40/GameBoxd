@@ -66,6 +66,9 @@ export class ModalController {
       case 'pick-favorites':
         this.renderPickFavorites();
         break;
+      case 'edit-profile':
+        this.renderEditProfile();
+        break;
       default:
         this.close();
     }
@@ -490,9 +493,14 @@ export class ModalController {
           ${allGames.map(game => {
             const isSelected = currentFavs.has(game.id);
             return `
-              <div class="picker-card ${isSelected ? 'is-selected' : ''}" data-game-id="${game.id}">
-                <img src="${game.coverUrl}" alt="${game.title}" />
-                <span class="picker-card-title">${game.title}</span>
+              <div class="picker-card ${isSelected ? 'is-selected' : ''}" data-game-id="${game.id}" tabindex="0" role="button" aria-label="${this.escapeHtml(game.title)}">
+                <img 
+                  src="${this.escapeHtml(game.coverUrl)}" 
+                  alt="${this.escapeHtml(game.title)}" 
+                  loading="lazy"
+                  onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=\\'http://www.w3.org/2000/svg\\' width=\\'300\\' height=\\'450\\' viewBox=\\'0 0 300 450\\'%3E%3Crect fill=\\'%231b2028\\' width=\\'300\\' height=\\'450\\'/%3E%3Ctext fill=\\'%238892b0\\' font-family=\\'sans-serif\\' font-size=\\'18\\' dy=\\'10.5\\' font-weight=\\'600\\' x=\\'50%25\\' y=\\'50%25\\' text-anchor=\\'middle\\'%3E${encodeURIComponent(game.title)}%3C/text%3E%3C/svg%3E';"
+                />
+                <span class="picker-card-title">${this.escapeHtml(game.title)}</span>
                 <span class="picker-check">${isSelected ? '✓' : '+'}</span>
               </div>
             `;
@@ -500,7 +508,7 @@ export class ModalController {
         </div>
 
         <div class="modal-footer-actions">
-          <button type="button" class="btn btn-secondary" id="btn-cancel-favs">Done</button>
+          <button type="button" class="btn btn-accent" id="btn-cancel-favs">Done</button>
         </div>
       </div>
     `;
@@ -522,24 +530,125 @@ export class ModalController {
 
     // Card selection toggle
     cards.forEach(card => {
-      card.addEventListener('click', () => {
+      const toggleSelect = () => {
         const gameId = card.getAttribute('data-game-id');
+        const title = card.querySelector('.picker-card-title').textContent;
         if (currentFavs.has(gameId)) {
           currentFavs.delete(gameId);
           card.classList.remove('is-selected');
           card.querySelector('.picker-check').textContent = '+';
+          window.dispatchEvent(new CustomEvent('toast-notify', { detail: { text: `Removed "${title}" from favorites` } }));
         } else {
           if (currentFavs.size >= 4) {
-            alert('You can only pin up to 4 favorite games. Unselect one first.');
+            window.dispatchEvent(new CustomEvent('toast-notify', {
+              detail: { text: 'You can only pin up to 4 favorite games. Unselect one first.' }
+            }));
             return;
           }
           currentFavs.add(gameId);
           card.classList.add('is-selected');
           card.querySelector('.picker-check').textContent = '✓';
+          window.dispatchEvent(new CustomEvent('toast-notify', { detail: { text: `Pinned "${title}" as favorite` } }));
         }
         store.setTopFour(Array.from(currentFavs));
         modalEl.querySelector('#fav-count').textContent = currentFavs.size;
+      };
+
+      card.addEventListener('click', toggleSelect);
+      card.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          toggleSelect();
+        }
       });
+    });
+  }
+
+  escapeHtml(str) {
+    if (!str) return '';
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
+
+  renderEditProfile() {
+    const profile = store.getProfile();
+    const currentUsername = profile.username || '';
+    const currentBio = profile.bio || '';
+    const currentAvatar = profile.avatarUrl || '';
+
+    this.overlay.innerHTML = `
+      <div class="modal-card modal-form-dialog" role="dialog" aria-modal="true" aria-labelledby="modal-profile-title">
+        <button type="button" class="modal-close-btn" id="modal-close" aria-label="Close dialog">&times;</button>
+        <h2 id="modal-profile-title" class="modal-title">Edit Profile</h2>
+        <p class="modal-sub">Update your gamer tag, bio, and avatar details.</p>
+
+        <form id="form-edit-profile" class="modal-form-vertical">
+          <div class="form-group">
+            <label for="edit-profile-username" class="form-label">Username *</label>
+            <input 
+              type="text" 
+              id="edit-profile-username" 
+              class="form-input" 
+              placeholder="Your gamer tag or display name" 
+              value="${this.escapeHtml(currentUsername)}" 
+              required 
+              maxlength="40"
+            />
+            <span class="form-hint">Displayed on your profile header, reviews, and logs.</span>
+          </div>
+
+          <div class="form-group">
+            <label for="edit-profile-bio" class="form-label">Bio / Tagline</label>
+            <textarea 
+              id="edit-profile-bio" 
+              class="form-textarea" 
+              rows="3" 
+              maxlength="200" 
+              placeholder="Tell others about your gaming taste, favorite genres, or currently playing..."
+            >${this.escapeHtml(currentBio)}</textarea>
+            <span class="form-hint">Max 200 characters</span>
+          </div>
+
+          <div class="form-group">
+            <label for="edit-profile-avatar" class="form-label">Avatar Image URL (optional)</label>
+            <input 
+              type="url" 
+              id="edit-profile-avatar" 
+              class="form-input" 
+              placeholder="https://example.com/avatar.jpg" 
+              value="${this.escapeHtml(currentAvatar)}" 
+            />
+            <span class="form-hint">Paste a link to any image, or leave blank to display your initials.</span>
+          </div>
+
+          <div class="modal-footer-actions">
+            <button type="button" class="btn btn-secondary" id="btn-cancel-profile">Cancel</button>
+            <button type="submit" class="btn btn-accent" id="btn-save-profile">Save Changes</button>
+          </div>
+        </form>
+      </div>
+    `;
+
+    const modalEl = this.overlay.querySelector('.modal-card');
+    modalEl.querySelector('#modal-close').addEventListener('click', () => this.close());
+    modalEl.querySelector('#btn-cancel-profile').addEventListener('click', () => this.close());
+
+    const form = modalEl.querySelector('#form-edit-profile');
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const username = modalEl.querySelector('#edit-profile-username').value.trim();
+      const bio = modalEl.querySelector('#edit-profile-bio').value.trim();
+      const avatarUrl = modalEl.querySelector('#edit-profile-avatar').value.trim();
+
+      if (!username) return;
+
+      store.updateProfile({ username, bio, avatarUrl });
+      window.dispatchEvent(new CustomEvent('toast-notify', { detail: { text: `Profile updated for ${username}!` } }));
+      this.close();
     });
   }
 }

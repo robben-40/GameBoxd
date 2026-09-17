@@ -123,7 +123,12 @@ class GameBoxdStore {
     const savedProfile = localStorage.getItem(STORAGE_KEYS.PROFILE);
     if (savedProfile) {
       try {
-        this.profile = { ...this.profile, ...JSON.parse(savedProfile) };
+        const parsed = JSON.parse(savedProfile);
+        // If the stored profile has the old default username 'GamerZero', migrate to user's name
+        if (parsed.username === 'GamerZero') {
+          parsed.username = 'Robben Ethan Athlee';
+        }
+        this.profile = { ...this.profile, ...parsed };
       } catch (e) {
         console.error('Error parsing profile', e);
       }
@@ -411,6 +416,23 @@ class GameBoxdStore {
     this.profile = { ...this.profile, ...updates };
     localStorage.setItem(STORAGE_KEYS.PROFILE, JSON.stringify(this.profile));
     this.notify('profile_updated', this.profile);
+  }
+
+  /**
+   * Update profile fields (username, bio, avatarUrl)
+   */
+  updateProfile(data = {}) {
+    const updates = {};
+    if (typeof data.username === 'string' && data.username.trim()) {
+      updates.username = data.username.trim();
+    }
+    if (typeof data.bio === 'string') {
+      updates.bio = data.bio.trim();
+    }
+    if (typeof data.avatarUrl === 'string') {
+      updates.avatarUrl = data.avatarUrl.trim();
+    }
+    this.saveProfile(updates);
   }
 
   setTopFour(topFourIds) {
