@@ -123,15 +123,7 @@ This project was built entirely with **vanilla web standards** to emphasize soli
 
 You can run this project in seconds without installing any packages or dependencies:
 
-### Open Directly in Browser (Zero Setup)
 Navigate to the project directory and double-click `index.html`, or open it in any modern browser (Chrome, Edge, Firefox, Safari, Brave).
-
-## Keyboard Shortcuts
-
-| Shortcut | Action |
-| :--- | :--- |
-| `/` | Instantly focus the catalog search bar from anywhere |
-| `Esc` | Close any active modal dialog (Game Detail, Add Game, etc.) |
 
 ---
 
@@ -165,33 +157,6 @@ GameBoxd/
 └── README.md               # Project documentation
 ```
 
----
-
-## Engineering Highlights & Takeaways
-
-Building GameBoxd as an independent project provided an opportunity to solve practical frontend challenges without external libraries:
-- **Direct Browser API Mastery**: Implemented accessible drag-and-drop with custom grab states, touch step-controls, and responsive drop indicators using the native HTML5 Drag and Drop API.
-- **State Management from Scratch**: Built a reactive pub/sub pattern in pure JavaScript ensuring state updates immediately synchronize the catalog cards, ranking positions, and profile telemetry counters across views.
-- **Modern Color Science**: Leveraged the `OKLCH` color space for perceptual uniformity, achieving balanced dark-mode contrast ratios without washed-out grays or harsh pure blacks (`#000000`).
-
----
-
-## Future Roadmap
-
-Potential future enhancements include:
-- [ ] **IGDB / RAWG API Sync**: Live search to import any obscure game across gaming history with auto-filled metadata and artwork.
-- [ ] **Custom Tier List Generator**: A dedicated S/A/B/C/D tier visualizer exportable as a downloadable image card.
-- [ ] **Steam Playtime Import**: Auto-syncing played hours and achievement progress via Steam Web API.
-- [ ] **Shareable Social Image Previews**: Client-side canvas generation for Top 4 cards to share directly on Twitter/X or Instagram.
-
----
-
-## Author
-
-**Robben Ethan Athlee (Robben40)**
-- Portfolio: [https://your-portfolio-url.com](https://your-portfolio-url.com) *(Update with your link)*
-- GitHub: [@robben-40](https://github.com/robben-40)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile) *(Update with your link)*
 
 ---
 
