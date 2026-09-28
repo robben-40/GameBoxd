@@ -38,14 +38,14 @@ class GameBoxdStore {
       this.baseGames = window.INITIAL_GAMES;
     }
 
-    try {
-      const response = await fetch('data/games.json');
-      if (response.ok) {
-        this.baseGames = await response.json();
-      }
-    } catch (err) {
-      // If fetch fails (e.g. CORS on file:// protocol), verify fallback
-      if (!this.baseGames || this.baseGames.length === 0) {
+    if (!this.baseGames || this.baseGames.length === 0) {
+      try {
+        const response = await fetch('data/games.json');
+        if (response.ok) {
+          this.baseGames = await response.json();
+        }
+      } catch (err) {
+        // Fallback to window.INITIAL_GAMES if available
         if (typeof window !== 'undefined' && Array.isArray(window.INITIAL_GAMES)) {
           this.baseGames = window.INITIAL_GAMES;
         }

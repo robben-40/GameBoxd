@@ -67,7 +67,9 @@ class GameBoxdApp {
   }
 
   handleRoute() {
-    const hash = window.location.hash.slice(1) || 'home';
+    const urlParams = new URLSearchParams(window.location.search);
+    const queryView = urlParams.get('view') || window.INITIAL_VIEW;
+    const hash = window.location.hash.slice(1) || queryView || 'home';
     const [viewName, queryStr] = hash.split('?');
 
     let activeView = 'home';
@@ -78,12 +80,16 @@ class GameBoxdApp {
     this.switchView(activeView);
 
     // If query params specify a custom list in ranking
-    if (activeView === 'ranking' && queryStr) {
-      const params = new URLSearchParams(queryStr);
-      const listId = params.get('list');
+    if (activeView === 'ranking') {
+      const listId = urlParams.get('list') || (queryStr ? new URLSearchParams(queryStr).get('list') : null);
       if (listId && this.ranking) {
         this.ranking.switchList(listId);
       }
+    }
+
+    const modalGameId = urlParams.get('modal') || window.INITIAL_MODAL;
+    if (modalGameId && this.modal) {
+      setTimeout(() => this.modal.open('game-detail', modalGameId), 200);
     }
   }
 

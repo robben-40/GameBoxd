@@ -246,8 +246,8 @@ window.INITIAL_GAMES = [
       "Xbox One",
       "Switch"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/570940/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/570940/library_hero.jpg",
     "synopsis": "Then, there was Fire. Journey through the haunting kingdom of Lordran as the Chosen Undead to rekindle the First Flame, or usher in the Age of Dark.",
     "avgRating": 4.7,
     "communityRatingCount": 29800
@@ -361,8 +361,8 @@ window.INITIAL_GAMES = [
       "Xbox Series X/S",
       "Xbox One"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145350/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145350/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145360/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145360/library_hero.jpg",
     "synopsis": "Defy the god of the dead as you hack and slash out of the Underworld of Greek myth in this fast-paced rogue-like dungeon crawler.",
     "avgRating": 4.8,
     "communityRatingCount": 29600
@@ -431,8 +431,8 @@ window.INITIAL_GAMES = [
       "Xbox 360",
       "Switch"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/8870/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/8870/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/409710/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/409710/library_hero.jpg",
     "synopsis": "After your plane crashes into icy uncharted waters, you discover Rapture, a breathtaking underwater utopia gone mad with biological modification.",
     "avgRating": 4.7,
     "communityRatingCount": 27400
@@ -593,8 +593,8 @@ window.INITIAL_GAMES = [
       "Xbox One",
       "Switch"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3017860/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3017860/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/379720/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/379720/library_hero.jpg",
     "synopsis": "As the DOOM Slayer, you awaken on a Union Aerospace Corporation Mars research base overrun by demonic hordes. Rip and tear until it is done.",
     "avgRating": 4.6,
     "communityRatingCount": 22100
@@ -807,8 +807,8 @@ window.INITIAL_GAMES = [
       "Xbox One",
       "Xbox Series X/S"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3240220/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3240220/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/library_hero.jpg",
     "synopsis": "A young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with the criminal underworld and the US government.",
     "avgRating": 4.7,
     "communityRatingCount": 51900
@@ -922,8 +922,8 @@ window.INITIAL_GAMES = [
       "PC",
       "PS2"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/337000/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/337000/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/6910/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/6910/library_hero.jpg",
     "synopsis": "The year is 2052 and the world is a dangerous and chaotic place. Terrorists operate openly; drugs and disease run rampant. Enter nano-augmented agent JC Denton.",
     "avgRating": 4.8,
     "communityRatingCount": 12700
@@ -963,8 +963,8 @@ window.INITIAL_GAMES = [
       "PS4",
       "Xbox Series X/S"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2154900/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2154900/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1364780/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1364780/library_hero.jpg",
     "synopsis": "Powered by Capcom's RE ENGINE, Street Fighter 6 spans three distinct game modes: Fighting Ground, World Tour and Battle Hub.",
     "avgRating": 4.6,
     "communityRatingCount": 11500
@@ -1077,8 +1077,8 @@ window.INITIAL_GAMES = [
       "Xbox One",
       "PC"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2552450/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2552450/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2552430/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2552430/library_hero.jpg",
     "synopsis": "Sora, Donald, and Goofy continue their quest to find Riku and King Mickey, confronting the enigmatic Organization XIII across Disney universes.",
     "avgRating": 4.7,
     "communityRatingCount": 16200
@@ -1187,7 +1187,7 @@ window.INITIAL_GAMES = [
       "3DS",
       "Switch"
     ],
-    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3nw8.webp",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3nnx.webp",
     "backdropUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/scdt6m.webp",
     "synopsis": "A young boy named Link is guided by the fairy Navi to awaken seven sages, travel across time, and defeat the evil Ganondorf.",
     "avgRating": 4.9,
@@ -1412,8 +1412,8 @@ window.INITIAL_GAMES = [
       "Xbox One",
       "Switch"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/39210/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/39210/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/359870/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/359870/library_hero.jpg",
     "synopsis": "Blitzball star Tidus awakens in Spira and joins summoner Yuna on her sacred pilgrimage to defeat the monstrous cataclysm known as Sin.",
     "avgRating": 4.7,
     "communityRatingCount": 29400
@@ -1651,8 +1651,8 @@ window.INITIAL_GAMES = [
       "PS5",
       "PC"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2651280/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2651280/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1817070/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1817070/library_hero.jpg",
     "synopsis": "Web-sling through an impeccably realized Manhattan as an experienced Peter Parker balancing chaotic personal lives with superhuman duty.",
     "avgRating": 4.7,
     "communityRatingCount": 36100
@@ -1883,8 +1883,8 @@ window.INITIAL_GAMES = [
       "Linux",
       "PS2"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/546560/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/546560/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/70/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/70/library_hero.jpg",
     "synopsis": "Theoretical physicist Gordon Freeman fights for survival through Black Mesa after an anomalous experiment tears open an alien dimension.",
     "avgRating": 4.8,
     "communityRatingCount": 31400
@@ -1928,8 +1928,8 @@ window.INITIAL_GAMES = [
       "Xbox 360",
       "Switch"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/620/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/620/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/400/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/400/library_hero.jpg",
     "synopsis": "Armed with an Aperture Science Handheld Portal Device, test subject Chell navigates devious spatial test chambers guided by the sardonic GLaDOS.",
     "avgRating": 4.8,
     "communityRatingCount": 38900
@@ -2022,8 +2022,8 @@ window.INITIAL_GAMES = [
       "Xbox 360",
       "Xbox One"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/403640/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/403640/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/205100/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/205100/library_hero.jpg",
     "synopsis": "Framed for the murder of Empress Jessamine Kaldwin, bodyguard Corvo Attano utilizes supernatural abilities and stealth in plague-ridden Dunwall.",
     "avgRating": 4.7,
     "communityRatingCount": 29800
@@ -2114,8 +2114,8 @@ window.INITIAL_GAMES = [
       "Consoles",
       "Mobile"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3017860/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3017860/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2280/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2280/library_hero.jpg",
     "synopsis": "The trailblazing first-person shooter that defined the genre, sending a solitary space marine through demon-infested corridors on the moons of Mars.",
     "avgRating": 4.8,
     "communityRatingCount": 32600
@@ -2135,8 +2135,8 @@ window.INITIAL_GAMES = [
       "PC",
       "Consoles"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2210/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2210/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2310/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2310/library_hero.jpg",
     "synopsis": "John Carmack's revolutionary fully 3D engine meets Trent Reznor's industrial soundscape in dark medieval slipgates of dimensional cosmic horror.",
     "avgRating": 4.7,
     "communityRatingCount": 19500
@@ -2335,8 +2335,8 @@ window.INITIAL_GAMES = [
       "Consoles",
       "Mobile"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1546990/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1546990/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1547000/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1547000/library_hero.jpg",
     "synopsis": "Carl 'CJ' Johnson returns to Los Santos to avenge his mother's murder, reclaiming the streets of Grove Street across a sprawling 1990s state.",
     "avgRating": 4.8,
     "communityRatingCount": 41800
@@ -2358,8 +2358,8 @@ window.INITIAL_GAMES = [
       "PC",
       "Mobile"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1546970/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1546970/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1546990/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1546990/library_hero.jpg",
     "synopsis": "Tommy Vercetti rises through the neon-drenched, synth-fueled criminal underworld of 1986 Vice City in Rockstar's Scarface-inspired classic.",
     "avgRating": 4.7,
     "communityRatingCount": 33400
@@ -2765,8 +2765,8 @@ window.INITIAL_GAMES = [
       "Xbox Series X/S",
       "PC"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2058190/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2058190/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2058180/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2058180/library_hero.jpg",
     "synopsis": "Disgraced lawyer turned private investigator Takayuki Yagami unravels a sinister serial killer conspiracy beneath Kamurocho's criminal underworld.",
     "avgRating": 4.7,
     "communityRatingCount": 16100
@@ -2974,8 +2974,8 @@ window.INITIAL_GAMES = [
       "Switch",
       "Mobile"
     ],
-    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2868840/library_600x900.jpg",
-    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2868840/library_hero.jpg",
+    "coverUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/646570/library_600x900.jpg",
+    "backdropUrl": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/646570/library_hero.jpg",
     "synopsis": "Craft a unique deck of cards, encounter bizarre creatures, and discover relics of immense power in the defining roguelike deckbuilder.",
     "avgRating": 4.8,
     "communityRatingCount": 31200
