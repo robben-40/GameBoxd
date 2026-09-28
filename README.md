@@ -2,13 +2,6 @@
 
 > "Track, review, and rank your gaming life."
 
-[![Vanilla JS](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)](#tech-stack--architecture)
-[![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5&logoColor=white)](#tech-stack--architecture)
-[![CSS3](https://img.shields.io/badge/CSS3-Tokens_%26_OKLCH-1572B6?logo=css3&logoColor=white)](#tech-stack--architecture)
-[![Zero Build Step](https://img.shields.io/badge/Build-Zero_Dependencies-brightgreen)](#quick-start)
-[![Storage](https://img.shields.io/badge/Storage-Local_First-8A2BE2)](#key-features)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 A lightweight, client-side Single Page Application (SPA) designed as a love letter to video games and the Letterboxd user experience. Built from scratch with modern vanilla web standards, zero third-party framework dependencies, and a clean modern-minimal dark aesthetic.
 
 ---
